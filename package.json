@@ -31,7 +31,8 @@
     "test:watch": "npm run test -- --watch",
     "start": "node server.js",
     "start:watch": "nodemon server.js",
-    "seed": "node ./lib/utils/seed"
+    "seedChars": "node ./lib/utils/charactersSeeds/seedCharacters",
+    "seedLocs": "node ./lib/utils/locationsSeeds/seedLocations"
   },
   "keywords": [],
   "author": "",
