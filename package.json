@@ -32,6 +32,7 @@
     "start": "node server.js",
     "start:watch": "nodemon server.js",
     "seedChars": "node ./lib/utils/charactersSeeds/seedCharacters",
+    "seedEps": "node ./lib/utils/episodesSeeds/seedEpisodes",
     "seedLocs": "node ./lib/utils/locationsSeeds/seedLocations"
   },
   "keywords": [],
