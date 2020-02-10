@@ -1,0 +1,1173 @@
+[
+  {
+    "name": "Abandoned Warehouse",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/1/12/Alone_Together_Background_2.png/revision/latest/scale-to-width-down/350?cb=20150528001826",
+    "type": "Warehouse",
+    "location": "Beach City",
+    "first": "\"Tiger Millionaire\"",
+    "latest": "Steven Universe: The Movie"
+  },
+  {
+    "name": "Amethyst's Chamber",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/5/59/The_Test_Background_2.png/revision/latest/scale-to-width-down/350?cb=20150311173332",
+    "location": "Crystal Temple",
+    "first": "\"The Test\""
+  },
+  {
+    "name": "Amethyst's Room",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/85/Tumblr_static_tumblr_static_637kju8lk9s080so8gogss0kc_640.png/revision/latest/scale-to-width-down/350?cb=20151209150836",
+    "location": "Crystal Temple",
+    "inhabitants": [
+      "Amethyst",
+      "The Slinker (Formerly)"
+    ],
+    "first": "\"Together Breakfast\"",
+    "latest": "\"Reformed\""
+  },
+  {
+    "name": "Ancient Gem Colony Ship",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/e/ee/Friend_Ship_background_Homeworld_ship_daylight.jpg/revision/latest/scale-to-width-down/350?cb=20150723182257",
+    "type": "Homeworld Dropship",
+    "owner": "Nephrite",
+    "first": "\"Friend Ship\"",
+    "latest": "\"Change Your Mind\""
+  },
+  {
+    "name": "Ancient Sky Arena",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/83/AncientSkyArenaOverview.png/revision/latest/scale-to-width-down/350?cb=20150909100713",
+    "type": "Gem Arena",
+    "owner": "Crystal Gems",
+    "first": "\"Sworn to the Sword\"",
+    "latest": "\"Mindful Education\""
+  },
+  {
+    "name": "Barriga Residence",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/0/0a/The_Good_Lars_Home_Day.png/revision/latest/scale-to-width-down/350?cb=20170531221407",
+    "type": "Residence",
+    "location": "Beach City",
+    "inhabitants": [
+      "Lars Barriga",
+      "Martha Barriga",
+      "Dante Barriga"
+    ],
+    "first": "\"Joking Victim\"",
+    "latest": "\"Letters to Lars\""
+  },
+  {
+    "name": "Beach City",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/4/4f/Beach_City_Color_Key.jpg/revision/latest/scale-to-width-down/350?cb=20141029060924",
+    "type": "City",
+    "location": "Delmarva, USA",
+    "inhabitants": [
+      "Steven Universe",
+      "Rose Quartz (formerly)",
+      "Greg Universe",
+      "Garnet",
+      "Pearl",
+      "Amethyst",
+      "Peridot",
+      "Lapis Lazuli",
+      "Bismuth",
+      "Nanefua Pizza (mayor)",
+      "Bill Dewey (former mayor)",
+      "Dante Barriga",
+      "Martha Barriga",
+      "Lars Barriga",
+      "Sadie Miller",
+      "Mr. Fryman",
+      "Peedee Fryman",
+      "Ronaldo Fryman",
+      "Jamie",
+      "Kofi Pizza",
+      "Kiki Pizza",
+      "Jenny Pizza",
+      "Harold Smiley",
+      "Vidalia",
+      "Yellowtail",
+      "Sour Cream",
+      "Onion",
+      "Buck Dewey",
+      "William Buford Buchanan (formerly)",
+      "Buddy Buddwick (formerly)",
+      "William Dewey (formerly)",
+      "Suitcase Sam",
+      "Barbara Miller",
+      "Padparadscha",
+      "Rhodonite",
+      "Rutile Twins",
+      "Fluorite",
+      "Biggs Jasper",
+      "Snowflake Obsidian",
+      "Ocean Jasper",
+      "Earth Beetle",
+      "Heaven Beetle",
+      "Larimar",
+      "Pink Pearl"
+    ],
+    "first": "\"Pilot\"",
+    "latest": "\"Prickly Pair\""
+  },
+  {
+    "name": "Beach City Funland",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/a/ab/Bubble_Buddies_BG_4.jpg/revision/latest/scale-to-width-down/350?cb=20160607165528",
+    "type": "Amusement Park",
+    "location": "Beach City",
+    "employees": [
+      "Harold Smiley",
+      "Blue Lace Agate",
+      "Biggs Jasper",
+      "Zebra Jasper",
+      "Cherry Quartz",
+      "Lace Amethyst",
+      "Crazy Lace Agate",
+      "Snowflake Obsidian",
+      "Larimar"
+    ],
+    "first": "\"Bubble Buddies\"",
+    "latest": "\"Guidance\""
+  },
+  {
+    "name": "Beach City Pier",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/b/b7/Tumblr_mx8uk6kRw11smn4pqo9_1280.jpg/revision/latest/scale-to-width-down/350?cb=20141123120150",
+    "type": "Pier",
+    "location": "Beach City",
+    "first": "\"Bubble Buddies\"",
+    "latest": "\"Alone at Sea\""
+  },
+  {
+    "name": "Beach City Stage",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/d/dc/Beach-A-Palooza_Background.png/revision/latest/scale-to-width-down/350?cb=20150905141557",
+    "type": "Venue",
+    "owner": "Municipality of Beach City (presumed)",
+    "first": "\"Steven and the Stevens\"",
+    "latest": "\"Little Graduation\""
+  },
+  {
+    "name": "Beach City Woods",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/c/c4/Onion_Gang_Forest.png/revision/latest/scale-to-width-down/350?cb=20160916050901",
+    "type": "Forest",
+    "location": "Beach City",
+    "inhabitants": [
+      "Cat Steven (formerly)",
+      "Cat Steven's Siblings (formerly)",
+      "Jasper"
+    ],
+    "first": "\"Same Old World\"",
+    "latest": "\"Little Homeschool\""
+  },
+  {
+    "name": "Beach Citywalk Fries",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/9/9b/BCF_2.jpg/revision/latest/scale-to-width-down/350?cb=20131120013501",
+    "type": "Fast-Food Restaurant",
+    "location": "Beach City",
+    "inhabitants": [
+      "Proprietor",
+      "Mr. Fryman",
+      "Fryboys",
+      "Peedee Fryman",
+      "Ronaldo Fryman"
+    ],
+    "owner": "Mr. Fryman",
+    "first": "\"Laser Light Cannon\"",
+    "latest": "\"Guidance\""
+  },
+  {
+    "name": "Beach House",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/d/d0/New_Beach_House.jpg/revision/latest/scale-to-width-down/350?cb=20191003152050",
+    "type": "Residence",
+    "location": "Crystal Temple, Beach City",
+    "inhabitants": [
+      "Steven Universe",
+      "Garnet",
+      "Amethyst",
+      "Pearl",
+      "Lion",
+      "Cat Steven",
+      "Peridot (briefly)",
+      "Pumpkin (briefly)",
+      "Greg Universe (occasionally)"
+    ],
+    "first": "\"Pilot\"",
+    "latest": "\"Prickly Pair\""
+  },
+  {
+    "name": "Beta Kindergarten",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/6/67/Beta_139.png/revision/latest/scale-to-width-down/350?cb=20160822224949",
+    "type": "Gem Creation Hub",
+    "location": "Earth, Facet Nine",
+    "inhabitants": [
+      "Gems (formerly)",
+      "Jasper",
+      "Some of the Famethyst",
+      "\"Skinny\" Jasper",
+      "Carnelian",
+      "Other Quartz Gems",
+      "Injectors"
+    ],
+    "first": "\"Beta\"",
+    "latest": "\"Kindergarten Kid\""
+  },
+  {
+    "name": "Big Donut",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/89/Big_donut_location.png/revision/latest/scale-to-width-down/350?cb=20150921165101",
+    "location": "Beach City",
+    "owner": "Unknown",
+    "employees": [
+      "Sadie Miller (former cashier/stocker)",
+      "Lars Barriga (former cashier/stocker)",
+      "Steven Universe (former cashier/stocker)",
+      "Garnet (temporary cashier/stocker)",
+      "Bill Dewey (current cashier/stocker)"
+    ],
+    "first": "\"Pilot\"",
+    "latest": "Steven Universe: The Movie"
+  },
+  {
+    "name": "Brooding Hill",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/1/1b/Tumblr_n28zjeMu8k1smn4pqo7_1280.jpg/revision/latest/scale-to-width-down/350?cb=20150831181737",
+    "location": "Beach City Outskirts",
+    "first": "\"Lars and the Cool Kids\"",
+    "latest": "Steven Universe: The Movie"
+  },
+  {
+    "name": "Buddwick Public Library",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/4/41/Buddy%27s_Book_010.png/revision/latest/scale-to-width-down/350?cb=20161013050933",
+    "type": "Library",
+    "location": "Beach City",
+    "first": "\"Buddy's Book\""
+  },
+  {
+    "name": "Canary Cove",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/1/1a/Canary_cove.png/revision/latest?cb=20150907160222",
+    "inhabitants": [
+      "Several canaries"
+    ],
+    "first": "Issue 2 (comics)"
+  },
+  {
+    "name": "Clock Tower",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/6/6b/Clock_Tower.png/revision/latest/scale-to-width-down/350?cb=20180304034900",
+    "type": "Gem-controlled Clock tower",
+    "first": "Issue 8"
+  },
+  {
+    "name": "Cloud Arena",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/5/57/Cloud_Area_Infobox.png/revision/latest/scale-to-width-down/350?cb=20180705030203",
+    "type": "Gem Arena",
+    "inhabitants": [
+      "Blue Diamond & her court (formerly)"
+    ],
+    "owner": "Homeworld Gems",
+    "first": "\"The Answer\"",
+    "latest": "\"Now We're Only Falling Apart\""
+  },
+  {
+    "name": "Communication Hub",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/3/37/Communication_Hub.jpg/revision/latest/scale-to-width-down/350?cb=20180620190601",
+    "type": "Gem Structure",
+    "first": "\"Coach Steven\"",
+    "latest": "\"Buddy's Book\"",
+    "additional": [
+      "\"Cry for Help\"",
+      "\"It Could've Been Great\"(pictured)"
+    ]
+  },
+  {
+    "name": "Cool Ranch",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/a/a1/Cool_Ranch.png/revision/latest/scale-to-width-down/350?cb=20171112042035",
+    "type": "Holiday Home",
+    "inhabitants": [
+      "Steven (briefly)",
+      "Greg Universe (briefly)",
+      "Garnet (briefly)",
+      "Amethyst (briefly)",
+      "Pearl (briefly)",
+      "Snake (\"Party Guy\")"
+    ],
+    "first": "\"Gemcation\""
+  },
+  {
+    "name": "Crystal Heart",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/82/Together_Breakfast_Backgrounds_%285%29.jpg/revision/latest/scale-to-width-down/350?cb=20150216221116",
+    "type": "Crystal Structure",
+    "first": "\"Together Breakfast\"",
+    "latest": "\"Catch and Release\""
+  },
+  {
+    "name": "The Crystal Temple",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/88/Temple_Background.png/revision/latest/scale-to-width-down/350?cb=20150809101831",
+    "type": "Gem Temple",
+    "location": "Beach City",
+    "inhabitants": [
+      "Crystal Gems",
+      "Steven",
+      "Garnet",
+      "Ruby",
+      "Sapphire",
+      "Amethyst",
+      "Pearl",
+      "Peridot",
+      "Pumpkin",
+      "Bismuth",
+      "Lion",
+      "Cat Steven",
+      "Rose Quartz (formerly)",
+      "Biggs Jasper",
+      "Snowflake Obsidian",
+      "Bubbled Gems",
+      "Corrupted Gems (formerly)",
+      "Nephrite/Centipeetle Mother (formerly)",
+      "Pyramid Temple Gem (formerly)",
+      "Orange Spodumene (formerly)",
+      "Desert Glass (formerly)",
+      "Big Bird (formerly)",
+      "Heaven Beetle (formerly)",
+      "Earth Beetle (formerly)",
+      "Gem Cave Creature (formerly)",
+      "Watermelon Tourmaline (formerly)",
+      "Larimar (formerly)",
+      "Invisible Gem Monster (formerly)",
+      "Lighthouse Gem Monster (formerly)",
+      "The Slinker (undesirable, status unknown)",
+      "Bixbite (formerly)",
+      "Jasper (formerly)",
+      "Tongue Monster (formerly)",
+      "Flower Monster (formerly)",
+      "Gem Shards",
+      "Cluster Gems",
+      "Squaridot (formerly)"
+    ],
+    "first": "\"Pilot\"",
+    "latest": "\"Snow Day\""
+  },
+  {
+    "name": "Dead Man's Mouth",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/e/ef/Tumblr_n28zjeMu8k1smn4pqo2_1280.jpg/revision/latest/scale-to-width-down/350?cb=20150831181704",
+    "type": "Lake",
+    "location": "Outside Beach City",
+    "inhabitants": [
+      "Magic Moss (formerly)"
+    ],
+    "first": "\"Lars and the Cool Kids\""
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  {
+    "name": "The Desert",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/6/68/Marble_maddness_2.png/revision/latest/scale-to-width-down/350?cb=20150825000655",
+    "type": "Desert",
+    "location": "Saharan Desert, Africa",
+    "inhabitants": [
+      "Lion (formerly)",
+      "Desert Glass (formerly)"
+    ],
+    "first": "\"Steven's Lion\"",
+    "latest": "\"Legs From Here to Homeworld\""
+  },
+  {
+    "name": "Earth",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/1/1e/Earth.png/revision/latest/scale-to-width-down/350?cb=20160629203955",
+    "type": "Planet",
+    "location": "Solar System, Orion–Cygnus Arm, Milky Way Galaxy",
+    "inhabitants": [
+      "Humans (dominant species)",
+      "Animals",
+      "Gems",
+      "Homeworld Gems (formerly)",
+      "Crystal Gems",
+      "Off Colors (formerly)",
+      "Corrupted Gems",
+      "Cluster Gems",
+      "The Cluster (inside)"
+    ]
+  },
+  {
+    "name": "Empire City",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/5/5f/Same_Old_World_101.png/revision/latest/scale-to-width-down/350?cb=20160617181335",
+    "type": "City",
+    "location": "Empire State, USA",
+    "first": "\"Same Old World\"",
+    "latest": "\"The Big Show\""
+  },
+  {
+    "name": "Fish Stew Pizza",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/d/da/Steven%27s_Lion_-_Fish_Stew_Pizza.png/revision/latest/scale-to-width-down/350?cb=20140131055908",
+    "type": "Restaurant",
+    "location": "Beach City",
+    "employees": [
+      "Proprietor",
+      "Kofi",
+      "Delivery Girls",
+      "Kiki",
+      "Jenny",
+      "Chef",
+      "Nanefua (formerly)",
+      "Bixbite (currently)"
+    ],
+    "first": "\"Steven's Lion\"",
+    "latest": "\"A Very Special Episode\""
+  },
+  {
+    "name": "Funland Arcade",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/6/61/Arcade_Mania_Background_4.jpg/revision/latest/scale-to-width-down/350?cb=20150803154329",
+    "type": "Arcade",
+    "location": "Beach City Funland",
+    "employees": [
+      "Harold Smiley"
+    ],
+    "first": "\"Frybo\"",
+    "latest": "\"Steven Universe: The Movie\""
+  },
+  {
+    "name": "Galaxy Warp",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/a/a8/Friend_Ship_002.png/revision/latest/scale-to-width-down/350?cb=20161031040610",
+    "type": "Gem Warp Hub",
+    "location": "Tunguska Sea, Siberia",
+    "first": "\"Mirror Gem\" (mentioned)",
+    "latest": "\"Same Old World\""
+  },
+  {
+    "name": "Garnet's Chamber",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/3/34/The_Test_Background_1.png/revision/latest/scale-to-width-down/350?cb=20150311173330",
+    "location": "Crystal Temple",
+    "first": "\"The Test\""
+  },
+  {
+    "name": "Garnet's Realm",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/e/ed/Charles_Hilton_Movie_6.jpg/revision/latest/scale-to-width-down/350?cb=20190909042226",
+    "type": "Realm",
+    "location": "Unknown",
+    "inhabitants": [
+      "Ruby",
+      "Sapphire",
+      "Garnet"
+    ],
+    "first": "\"Steven Universe: The Movie\""
+  },
+  {
+    "name": "Gem Battlefield",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/1/1a/Rose%27s_Scabbard_Background_7.png/revision/latest/scale-to-width-down/350?cb=20150311173322",
+    "type": "Battleground",
+    "location": "Scandinavian Peninsula, Norway",
+    "first": "\"Serious Steven\"",
+    "latest": "\"Buddy's Book\"",
+    "additional": [
+      "\"Rose's Scabbard\"",
+      "\"Sworn to the Sword\" (hologram)",
+      "\"Bismuth\""
+    ]
+  },
+  {
+    "name": "Gem Homeworld",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/2/2f/Legs_From_Here_to_Homeworld_366.png/revision/latest/scale-to-width-down/350?cb=20180819000459",
+    "type": "Planet",
+    "location": "Distant Galaxy",
+    "inhabitants": [
+      "The Great Diamond Authority",
+      "Homeworld Gems",
+      "Off Colors (formerly)"
+    ],
+    "owner": "The Great Diamond Authority",
+    "employees": [
+      "Homeworld Gems"
+    ],
+    "first": "\"Mirror Gem\" (mentioned)",
+    "latest": "Steven Universe: The Movie"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  {
+    "name": "Geode",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f6/Geode.jpg/revision/latest/scale-to-width-down/350?cb=20150421122351",
+    "type": "Gem Object",
+    "location": "Crater",
+    "first": "\"House Guest\"",
+    "latest": "\"Warp Tour\""
+  },
+  {
+    "name": "Homeworld Kindergarten",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/7/73/Off_Colors_094.png/revision/latest/scale-to-width-down/350?cb=20170603190456",
+    "type": "Kindergarten",
+    "location": "Gem Homeworld",
+    "inhabitants": [
+      "Gems (formerly)",
+      "Off Colors",
+      "Lars Barriga (formerly)"
+    ],
+    "owner": "The Great Diamond Authority",
+    "first": "\"Off Colors\"",
+    "latest": "\"Lars' Head\""
+  },
+  {
+    "name": "Hospital",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/6/62/Nightmare_Hospital_057.png/revision/latest/scale-to-width-down/350?cb=20160710061207",
+    "type": "Medical center",
+    "first": "\"Nightmare Hospital\"",
+    "latest": "\"Storm in the Room\" (mentioned)"
+  },
+  {
+    "name": "Ice Cavern",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/d/da/Ice_Gem_Wall_Collision_Background.jpg/revision/latest/scale-to-width-down/350?cb=20141012042907",
+    "type": "Cave",
+    "location": "Unknown mountain",
+    "inhabitants": [
+      "Larimar (formerly)",
+      "Shooting Star (formerly)"
+    ],
+    "first": "\"Monster Buddies\""
+  },
+  {
+    "name": "Indigo Cave",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f5/Indigo_Cave.jpeg/revision/latest/scale-to-width-down/350?cb=20150530064104",
+    "inhabitants": [
+      "Light Prism Monsters",
+      "Indigo Light"
+    ],
+    "first": "Attack the Light"
+  },
+  {
+    "name": "It's a Wash",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/a/a0/Letters_to_Lars_%28189%29.png/revision/latest/scale-to-width-down/350?cb=20180725194428",
+    "type": "Car Wash",
+    "location": "Beach City",
+    "owner": "Greg Universe",
+    "first": "\"Laser Light Cannon\"",
+    "latest": "\"Bluebird\""
+  },
+  {
+    "name": "Jersey",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/e/e6/Same_Old_World_109.png/revision/latest/scale-to-width-down/350?cb=20160617181359",
+    "type": "State",
+    "first": "\"Same Old World\"",
+    "latest": "\"Mr. Greg\""
+  },
+  {
+    "name": "Jungle Moon",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/8d/Jungle_Moon_.png/revision/latest/scale-to-width-down/350?cb=20190119070411",
+    "type": "Moon",
+    "location": "Sector 7",
+    "inhabitants": [
+      "Aliens"
+    ],
+    "first": "\"Lars of the Stars\"",
+    "latest": "\"Jungle Moon\""
+  },
+  {
+    "name": "Jungle Moon Base",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/d/d3/Jungle_Moon_Base.png/revision/latest/scale-to-width-down/224?cb=20180214042312",
+    "type": "Diamond base",
+    "location": "Jungle Moon",
+    "inhabitants": [
+      "Yellow Diamond (formerly)",
+      "Yellow Pearl (formerly)",
+      "Pink Diamond (formerly)",
+      "Stevonnie (temporarily)"
+    ],
+    "first": "\"Jungle Moon\""
+  },
+  {
+    "name": "Keystone",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/0/05/Keystonemotel_keystonesign.png/revision/latest/scale-to-width-down/350?cb=20150723003434",
+    "type": "State",
+    "location": "United States of America",
+    "first": "\"Keystone Motel\""
+  },
+  {
+    "name": "Keystone Motel",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/5/51/Keystonemotellocation.jpg/revision/latest/scale-to-width-down/350?cb=20150715001042",
+    "type": "Motel",
+    "inhabitants": [
+      "Steven (briefly)",
+      "Greg Universe (briefly)",
+      "Garnet (briefly)",
+      "Ruby (briefly)",
+      "Sapphire (briefly)"
+    ],
+    "first": "\"Keystone Motel\""
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/b/b8/On_the_run_21.png/revision/latest/scale-to-width-down/270?cb=20150821000422"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/b/b8/On_the_run_21.png/revision/latest/scale-to-width-down/270?cb=20150821000422"
+  },
+  {
+    "name": "Le Hotel",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/e/ef/Mr._Greg_069.png/revision/latest/scale-to-width-down/350?cb=20160722074054",
+    "type": "Hotel",
+    "location": "Empire City",
+    "inhabitants": [
+      "Steven (briefly)",
+      "Greg (briefly)",
+      "Pearl (briefly)"
+    ],
+    "employees": [
+      "Ricky (manager)",
+      "Le Hotel bellhops"
+    ],
+    "first": "\"Mr. Greg\""
+  },
+  {
+    "name": "Little Homeworld",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/b/b3/Little_Graduation_208.png/revision/latest/scale-to-width-down/350?cb=20191230001850",
+    "type": "Colony",
+    "location": "Delmarva, United States, Earth (Southwest of Beach City)",
+    "inhabitants": [
+      "Uncorrupted Gems",
+      "Snowflake Obsidian",
+      "Ocean Jasper",
+      "Nephrites",
+      "Lace Amethyst",
+      "Blue Lace Agate",
+      "Zebra Jasper",
+      "Angel Aura Quartz",
+      "Crazy Lace Agate",
+      "Orange Spodumene",
+      "Heaven Beetle",
+      "Earth Beetle",
+      "Watermelon Tourmaline",
+      "Larimar",
+      "Biggs Jasper",
+      "Bixbite",
+      "Nephrite",
+      "Cherry Quartz",
+      "Lapis Lazuli",
+      "Peridot",
+      "Bismuth",
+      "Yellow Pearl",
+      "Blue Pearl",
+      "Topaz",
+      "Four Rubies",
+      "An Aquamarine",
+      "\"Nice\" Lapis Lazuli"
+    ],
+    "first": "Steven Universe: The Movie",
+    "latest": "\"Little Graduation\""
+  },
+  {
+    "name": "Lunar Sea Spire",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/d/db/Lunar_Sea_Spire.png/revision/latest/scale-to-width-down/350?cb=20150526134721",
+    "type": "Temple",
+    "location": "Earth, Atlantic Ocean",
+    "inhabitants": [
+      "Gems (formerly)",
+      "Crystal Shrimp"
+    ],
+    "first": "\"Cheeseburger Backpack\"",
+    "latest": "\"Buddy's Book\"",
+    "additional": [
+      "Attack the Light (game)",
+      "\"The Test\" (mentioned)"
+    ]
+  },
+  {
+    "name": "Maheswaran Residence",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/2/28/Maheswaran_Residence_-_Night.jpg/revision/latest/scale-to-width-down/350?cb=20150906144937",
+    "type": "Townhouse",
+    "location": "Delmarva, USA",
+    "inhabitants": [
+      "Connie Maheswaran",
+      "Dr. Maheswaran",
+      "Mr. Maheswaran"
+    ],
+    "first": "\"Mirror Gem\"",
+    "latest": "\"Little Homeschool\""
+  },
+  {
+    "name": "Malachite's Realm",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/6/66/Chilletid3.png/revision/latest/scale-to-width-down/350?cb=20150913010651",
+    "type": "Realm",
+    "location": "Unknown",
+    "inhabitants": [
+      "Lapis Lazuli (formerly)",
+      "Jasper (formerly)",
+      "Steven (temporarily)"
+    ],
+    "first": "\"Chille Tid\""
+  },
+  {
+    "name": "Mask Island",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/b/bf/Mask_Island_Escapism.png/revision/latest/scale-to-width-down/350?cb=20190124104739",
+    "inhabitants": [
+      "Invisible Gem Monster (formerly)",
+      "Mask Island Fish",
+      "Mask Island Worms",
+      "Watermelon Stevens"
+    ],
+    "first": "\"Island Adventure\"",
+    "latest": "\"Escapism\""
+  },
+  {
+    "name": "Mayor's Office",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/f/fb/Tumblr_ntz006nmnX1smn4pqo6_1280.png/revision/latest/scale-to-width-down/350?cb=20150901195422",
+    "type": "Office",
+    "location": "Beach City",
+    "owner": "Bill Dewey (formerly)",
+    "first": "\"The Return\"",
+    "latest": "\"Dewey Wins\""
+  },
+  {
+    "name": "Miller Residence",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/6/6b/The_New_Lars_171.png/revision/latest/scale-to-width-down/350?cb=20160807052046",
+    "type": "Residence",
+    "location": "Beach City",
+    "inhabitants": [
+      "Sadie Miller",
+      "Barbara Miller"
+    ],
+    "first": "\"Sadie's Song\"",
+    "latest": "\"The Big Show\""
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/0/03/Danny%27s_%28Minor_Location%29.png/revision/latest/scale-to-width-down/282?cb=20180102150037"
+  },
+  {
+    "name": "Moon Base",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/c/c9/Moonbase_Infobox.png/revision/latest/scale-to-width-down/350?cb=20160106234844",
+    "type": "Diamond base",
+    "location": "Earth's Moon",
+    "inhabitants": [
+      "Pink Diamond (formerly)"
+    ],
+    "first": "\"It Could've Been Great\"",
+    "latest": "\"Now We're Only Falling Apart\""
+  },
+  {
+    "name": "Ocean Town",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/e/e3/Ocean_Town_Sign.png/revision/latest/scale-to-width-down/350?cb=20160908235809",
+    "type": "City",
+    "location": "Delmarva, USA",
+    "first": "\"Last One Out of Beach City\""
+  },
+  {
+    "name": "Onion's House",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/c/cb/Onionshouse.jpg/revision/latest/scale-to-width-down/350?cb=20150715005636",
+    "type": "Residence",
+    "location": "Beach City",
+    "inhabitants": [
+      "Vidalia",
+      "Yellowtail",
+      "Sour Cream",
+      "Onion",
+      "Onion's Snake"
+    ],
+    "first": "\"Onion Friend\"",
+    "latest": "\"A Very Special Episode\""
+  },
+  {
+    "name": "Pearl's Arena",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/e/ed/Steven_the_Swordfighter_Cloud_Temple_Background.jpg/revision/latest/scale-to-width-down/350?cb=20150825220742",
+    "type": "Battle Arena",
+    "owner": "Crystal Gems",
+    "first": "\"Steven the Sword Fighter\""
+  },
+  {
+    "name": "Pearl's Chamber",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/7/77/Pearlsroom.png/revision/latest/scale-to-width-down/350?cb=20150620121943",
+    "location": "Crystal Temple",
+    "first": "\"The Test\""
+  },
+  {
+    "name": "Pearl's Dimension",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/5/5b/ASinglePaleRose_%28220%29.png/revision/latest/scale-to-width-down/350?cb=20180513081955",
+    "type": "Pocket Dimension",
+    "location": "Pearl's gem",
+    "first": "Issue 5",
+    "latest": "A Single Pale Rose"
+  },
+  {
+    "name": "Pearl's Room",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/8d/Tumblr_static_tumblr_static_7fsvkctc8qw4wocg80goggo08_640.jpg/revision/latest/scale-to-width-down/350?cb=20151209151705",
+    "location": "Crystal Temple",
+    "inhabitants": [
+      "Pearl"
+    ],
+    "first": "\"Together Breakfast\"",
+    "latest": "\"Lion 3: Straight to Video\""
+  },
+  {
+    "name": "Pearl's Tree",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/0/00/Gem_Glow_Backgrounds_%288%29.jpg/revision/latest/scale-to-width-down/350?cb=20150216170441",
+    "type": "Cherry tree",
+    "owner": "Pearl",
+    "first": "\"Gem Glow\"",
+    "latest": "\"Steven the Sword Fighter\""
+  },
+  {
+    "name": "Pink Diamond's Garden",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/9/95/Charles_Hilton_Movie_10.jpg/revision/latest/scale-to-width-down/350?cb=20190909042450",
+    "type": "Garden",
+    "location": "Space",
+    "inhabitants": [
+      "Spinel (formerly)"
+    ],
+    "owner": "Pink Diamond",
+    "first": "Steven Universe: The Movie"
+  },
+  {
+    "name": "Pink Diamond's Human Zoo",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/7/76/Pink_Diamond%27s_Zoo.png/revision/latest/scale-to-width-down/343?cb=20170131063046",
+    "type": "Specimen containment facility (formerly)",
+    "location": "Space, formerly orbiting an unknown ringed planet",
+    "inhabitants": [
+      "Zoomans",
+      "The \"Famethyst\"",
+      "Unbubbled Rose Quartz Gems"
+    ],
+    "owner": "Zoomans",
+    "employees": [
+      "Holly Blue Agate (former manager)",
+      "Quartz guards",
+      "The \"Famethyst\""
+    ],
+    "first": "\"Adventures in Light Distortion\"",
+    "latest": "\"Rose Buds\""
+  },
+  {
+    "name": "Pink Dimension",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/7/76/Updated_Pocket_Dimension.png/revision/latest/scale-to-width-down/350?cb=20170531223622",
+    "type": "Pocket dimension",
+    "location": "Lion's mane",
+    "inhabitants": [
+      "Rose Quartz (formerly)",
+      "Steven (periodically)",
+      "Bismuth's gemstone (formerly)"
+    ],
+    "first": "\"Lion 3: Straight to Video\"",
+    "latest": "\"Rose Buds\""
+  },
+  {
+    "name": "Prime Kindergarten",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/b/bd/On_the_Run_204.png/revision/latest/scale-to-width-down/350?cb=20160508190732",
+    "type": "Gem Creation Hub",
+    "location": "Earth, Facet Five",
+    "inhabitants": [
+      "Gems (formerly)",
+      "Amethyst",
+      "Some of the Famethyst",
+      "Other Quartz Gems",
+      "Cluster Gems",
+      "Injectors"
+    ],
+    "first": "\"On the Run\"",
+    "latest": "\"Steven Universe: The Movie\""
+  },
+  {
+    "name": "Prime Kindergarten Control Room",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/6/6c/Marble_maddness_9.png/revision/latest/scale-to-width-down/350?cb=20150825000741",
+    "type": "Control Room",
+    "location": "Prime Kindergarten",
+    "inhabitants": [
+      "Cluster Gems (formerly)"
+    ],
+    "first": "\"Marble Madness\"",
+    "latest": "\"When It Rains\""
+  },
+  {
+    "name": "Pyramid Temple",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/80/PyramidTempleFinish.png/revision/latest/scale-to-width-down/350?cb=20150502000826",
+    "type": "Temple",
+    "location": "Gem Battlefield, Scandinavian Peninsula",
+    "first": "\"Serious Steven\"",
+    "latest": "\"Buddy's Book\""
+  },
+  {
+    "name": "Red Temple",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/f/fc/Attack_the_Light_-_Red_Temple_map.png/revision/latest/scale-to-width-down/350?cb=20150724031430",
+    "inhabitants": [
+      "Light Prism Monsters",
+      "Red Light"
+    ],
+    "first": "Attack the Light"
+  },
+  {
+    "name": "Ringo Zone",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/e/ea/Tumblr_nf0sloCDBN1rfkbx9o8_1280.jpg/revision/latest/scale-to-width-down/350?cb=20141114211116",
+    "inhabitants": [
+      "Ringo",
+      "Garnet (briefly)",
+      "Hoppy (briefly)",
+      "Hopper (briefly)"
+    ],
+    "first": "\"Garnet's Universe\""
+  },
+  {
+    "name": "Rose's Fountain",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/e/e6/Rose%27s_Fountain.png/revision/latest/scale-to-width-down/350?cb=20141120201709",
+    "type": "Fountain",
+    "location": "Rose's garden",
+    "first": "\"An Indirect Kiss\"",
+    "latest": "\"Change Your Mind\""
+  },
+  {
+    "name": "Rose's Landfill",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/6/68/Rose%27s_Landfill_Infobox_Image.png/revision/latest/scale-to-width-down/350?cb=20170507163137",
+    "type": "Junkyard",
+    "location": "The Desert",
+    "owner": "Rose Quartz",
+    "first": "\"Lion 4: Alternate Ending\"",
+    "latest": "\"Legs From Here to Homeworld\""
+  },
+  {
+    "name": "Rose's Room",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/1/16/Open_book_9.png/revision/latest/scale-to-width-down/350?cb=20150827000752",
+    "type": "Room",
+    "location": "Crystal Temple",
+    "inhabitants": [
+      "Rose Quartz (formerly)",
+      "Steven Universe (currently)",
+      "Tiny Floating Whale",
+      "Cloud Connie",
+      "Wind Lizard"
+    ],
+    "first": "\"Together Breakfast\"",
+    "latest": "\"Snow Day\""
+  },
+  {
+    "name": "Rose's Secret Armory",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/89/Rose%27s_Scabbard_064.png/revision/latest/scale-to-width-down/350?cb=20160704194424",
+    "type": "Cave/Armory",
+    "owner": "Rose Quartz (formerly)",
+    "first": "\"Lion 2: The Movie\"",
+    "latest": "\"Lion 4: Alternate Ending\""
+  },
+  {
+    "name": "Sadie's Room",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/4/45/Tumblr_nwc4txr3lC1smn4pqo8_r1_1280.png/revision/latest/scale-to-width-down/350?cb=20151222180626",
+    "type": "Bedroom",
+    "location": "Miller Residence",
+    "inhabitants": [
+      "Sadie"
+    ],
+    "first": "\"Sadie's Song\"",
+    "latest": "\"Letters to Lars\""
+  },
+  {
+    "name": "Sand Fortress",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/e/e7/Steven%27s_Lion_Sand_Landscape.png/revision/latest/scale-to-width-down/350?cb=20150804201302",
+    "location": "The Desert (formerly)",
+    "first": "\"Steven's Lion\""
+  },
+  {
+    "name": "Sardonyx's Room",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/c/c4/Know_Your_Fusion_080.png/revision/latest/scale-to-width-down/350?cb=20160816205251",
+    "type": "Room",
+    "location": "Crystal Temple",
+    "inhabitants": [
+      "Sardonyx"
+    ],
+    "first": "\"Know Your Fusion\""
+  },
+  {
+    "name": "Sea Shrine",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/7/75/Underwater_Temple_Outside_View.png/revision/latest/scale-to-width-down/350?cb=20141013165317",
+    "type": "Shrine",
+    "location": "At the bottom of the ocean",
+    "first": "\"Steven and the Stevens\""
+  },
+  {
+    "name": "Sky Spire",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/c/ca/Sky_spire_2.jpg/revision/latest/scale-to-width-down/350?cb=20140318123243",
+    "type": "Temple",
+    "inhabitants": [
+      "Steven Jr.",
+      "Unnamed Goat (unknown)",
+      "Steven the Third"
+    ],
+    "first": "\"Giant Woman\"",
+    "latest": "\"Buddy's Book\""
+  },
+  {
+    "name": "Spacetries",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/4/4c/SU_Future_background_1.jpg/revision/latest/scale-to-width-down/350?cb=20191208230834",
+    "location": "Beach City",
+    "owner": "Lars Barriga",
+    "employees": [
+      "Lars Barriga",
+      "Blue Lace Agate"
+    ],
+    "first": "\"Little Homeschool\"",
+    "latest": "\"Little Graduation\""
+  },
+  {
+    "name": "Steven's Bathroom",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/2/2a/Tumblr_nwc48twwQZ1smn4pqo5_r1_1280.png/revision/latest/scale-to-width-down/350?cb=20151223035146",
+    "location": "Beach House",
+    "inhabitants": [
+      "Peridot (formerly)",
+      "Pumpkin (formerly)"
+    ],
+    "first": "\"Catch and Release\"",
+    "latest": "\"Bluebird\""
+  },
+  {
+    "name": "Steven's Conservatory",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/b/bd/Steven%27s_Conservatory.jpg/revision/latest/scale-to-width-down/350?cb=20191003152251",
+    "location": "Beach House",
+    "inhabitants": [
+      "Steven",
+      "Lion"
+    ],
+    "first": "Steven Universe: The Movie",
+    "latest": "\"Prickly Pair\""
+  },
+  {
+    "name": "Steven's Room",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/c/c1/Steven%27s_New_Room.jpg/revision/latest/scale-to-width-down/350?cb=20191003152321",
+    "location": "Beach House",
+    "inhabitants": [
+      "Steven Universe"
+    ],
+    "first": "\"Gem Glow\"",
+    "latest": "\"Prickly Pair\""
+  },
+  {
+    "name": "Temple of the Frozen Fragment and Scorching Shard",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/4/4b/Fragment_Shard_Temple.png/revision/latest/scale-to-width-down/350?cb=20180708073354",
+    "type": "Temple",
+    "first": "Issue 15 (2017)"
+  },
+  {
+    "name": "The Appalachian",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/c/ca/The_Appalachian.jpg/revision/latest/scale-to-width-down/350?cb=20150417130125",
+    "type": "Ride",
+    "first": "\"Bubble Buddies\"",
+    "latest": "\"Guidance\""
+  },
+  {
+    "name": "The Barn",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/86/CantGoBack123.png/revision/latest/scale-to-width-down/350?cb=20180511213732",
+    "type": "Barn",
+    "location": "Southwest Beach City (formerly)",
+    "inhabitants": [
+      "Lapis Lazuli (formerly)",
+      "Peridot (formerly)",
+      "Pumpkin (formerly)",
+      "Tongue Monster (bubbled, formerly)"
+    ],
+    "owner": "DeMayo Family",
+    "first": "\"Space Race\"",
+    "latest": "\"Reunited\""
+  },
+  {
+    "name": "The Best Diner in the World",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/3/31/Keystone_Motel_251.png/revision/latest/scale-to-width-down/350?cb=20160919084021",
+    "type": "Restaurant",
+    "location": "Keystone",
+    "employees": [
+      "The Best Diner in the World's Waitress"
+    ],
+    "first": "\"Keystone Motel\""
+  },
+  {
+    "name": "The Burning Room",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/7/7b/Together_Breakfast_Backgrounds_%2810%29.jpg/revision/latest/scale-to-width-down/350?cb=20150216221122",
+    "location": "Crystal Temple",
+    "inhabitants": [
+      "Gem Bubbles"
+    ],
+    "first": "\"Together Breakfast\"",
+    "latest": "\"Change Your Mind\""
+  },
+  {
+    "name": "The Crab Shack",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f7/Tumblr_nf21y0vKRk1smn4pqo6_1280.jpg/revision/latest/scale-to-width-down/350?cb=20141205031338",
+    "type": "Seafood Restaurant",
+    "location": "Beach City",
+    "employees": [
+      "Ricky (formerly)"
+    ],
+    "first": "\"Fusion Cuisine\"",
+    "latest": "\"Love Letters\" (mentioned)"
+  },
+  {
+    "name": "The Forge",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/a/ab/Bismuth_208.png/revision/latest/scale-to-width-down/350?cb=20160806031100",
+    "type": "Forge",
+    "owner": "Bismuth",
+    "first": "\"Bismuth\"",
+    "latest": "\"Made of Honor\""
+  },
+  {
+    "name": "The Great North",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/5/56/Gem_Hunt_001.png/revision/latest/scale-to-width-down/350?cb=20160825183356",
+    "type": "Forest",
+    "inhabitants": [
+      "Ocean Jasper (formerly)",
+      "Biggs Jasper (formerly)"
+    ],
+    "first": "\"Gem Hunt\""
+  },
+  {
+    "name": "The Lighthouse",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/5/53/Lighthouse2.png/revision/latest/scale-to-width-down/350?cb=20190303171233",
+    "type": "Lighthouse",
+    "location": "On top of the Crystal Temple",
+    "inhabitants": [
+      "Lighthouse Gem Monster (formerly)",
+      "Ronaldo Fryman (regularly)"
+    ],
+    "first": "\"Gem Glow\"",
+    "latest": "\"Snow Day\""
+  },
+  {
+    "name": "The Moors of Marcoon",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/b/b0/Moors_of_marcoon.png/revision/latest/scale-to-width-down/350?cb=20150907162019",
+    "first": "Issue 2 (comics)"
+  },
+  {
+    "name": "The Reef",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/6/66/Volleyball_091.png/revision/latest/scale-to-width-down/350?cb=20191209042609",
+    "type": "Gem Structure",
+    "location": "Unknown Ocean planet",
+    "first": "\"Volleyball\""
+  },
+  {
+    "name": "The Universe Family Camping Ground",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/3/35/Universe_Camp_Ground.png/revision/latest?cb=20160316151938",
+    "type": "Campsite",
+    "inhabitants": [
+      "Glass Ghost (formerly)",
+      "Greg Universe (occasionally)",
+      "Steven Universe (occasionally)",
+      "Garnet (temporarily)",
+      "Pearl (temporarily)",
+      "Amethyst (temporarily)"
+    ],
+    "first": "Steven Universe and the Crystal Gems issue 1"
+  },
+  {
+    "name": "U-Stor",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/d/d3/Maximum_capacity_1.png/revision/latest/scale-to-width-down/350?cb=20150823000436",
+    "type": "Storage facility",
+    "location": "Beach City",
+    "first": "\"Laser Light Cannon\"",
+    "latest": "Steven Universe: The Movie"
+  },
+  {
+    "name": "Warp Space",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/87/Distorcion_galactica.png/revision/latest/scale-to-width-down/350?cb=20150113205318",
+    "type": "Dimension",
+    "first": "\"Warp Tour\"",
+    "latest": "Steven Universe: The Movie"
+  },
+  {
+    "name": "Water Tower",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f7/Tumblr_nf21y0vKRk1smn4pqo6_1280.jpg/revision/latest/scale-to-width-down/350?cb=20141205031338",
+    "location": "Beach City",
+    "first": "We Are the Crystal Gems (opening theme)",
+    "latest": "\"Steven Universe: The Movie\""
+  },
+  {
+    "name": "Wheat Field",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/3/3c/Tumblr_nu2mluQLCJ1smn4pqo2_1280.png/revision/latest/scale-to-width-down/350?cb=20150904091033",
+    "type": "Crash site",
+    "location": "Delmarva, USA",
+    "inhabitants": [
+      "Peridot (temporarily)"
+    ],
+    "first": "\"Joy Ride\""
+  }
+]
