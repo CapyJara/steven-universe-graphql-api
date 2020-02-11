@@ -245,7 +245,7 @@
       "Topaz (former escort)"
     ],
     "alignment": [
-      "Homeworld Gems (formerly)"
+      "Homeworld Gems (formerly; rogue)"
     ],
     "status": [
       "Active"
@@ -3230,10 +3230,10 @@
       "Navy blue"
     ],
     "gemstone": [
-      "Lapis Lazuli"
+      "Lapis lazuli"
     ],
     "gem_type": [
-      "Lapis lazuli"
+      "Lapis Lazuli"
     ],
     "affiliations": [
       "Gem Homeworld (formerly)",
@@ -4595,7 +4595,7 @@
       "Blonde"
     ],
     "eyes": [
-      "Brown"
+      "Black"
     ],
     "occupations": [
       "Beach Citywalk Fries (formerly)",
@@ -4608,9 +4608,8 @@
       "Alive"
     ],
     "relatives": [
-      "Ronaldo Fryman (older brother)",
       "Mr. Fryman (father)",
-      "Unnamed mother"
+      "Ronaldo Fryman (older brother)"
     ],
     "friends": [
       "Steven",
@@ -5262,6 +5261,2786 @@
     ],
     "first_appearance": [
       "Attack the Light"
+    ]
+  },
+  {
+    "name": "Rhodonite",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/3/39/RhodoniteModelSheetPoseByChara.png/revision/latest/scale-to-width-down/340?cb=20191004052527",
+    "species": [
+      "Gem"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "complexion": [
+      "Raspberry pink"
+    ],
+    "hair": [
+      "Black and dark lavender"
+    ],
+    "eyes": [
+      "Black and light-medium orchid"
+    ],
+    "gemstone": [
+      "Rhodonite"
+    ],
+    "gem_type": [
+      "Fusion"
+    ],
+    "affiliations": [
+      "Off Colors"
+    ],
+    "occupations": [
+      "Head of Strategic Operations"
+    ],
+    "alignment": [
+      "None"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Steven Universe",
+      "Garnet",
+      "Lars Barriga",
+      "Padparadscha",
+      "Fluorite",
+      "Rutile Twins",
+      "Connie Maheswaran",
+      "Stevonnie",
+      "Sadie Miller",
+      "Buck Dewey"
+    ],
+    "first_appearance": [
+      "\"Off Colors\""
+    ],
+    "voice_actor": [
+      "Enuka Okuma"
+    ]
+  },
+  {
+    "name": "Ringo",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/f/fc/Ringo_improvedPNG.png/revision/latest/scale-to-width-down/350?cb=20151022191719",
+    "species": [
+      "Human"
+    ],
+    "sex": [
+      "Male"
+    ],
+    "accessories": [
+      "Glasses"
+    ],
+    "first_appearance": [
+      "\"Garnet's Universe\""
+    ],
+    "voice_actor": [
+      "Zachary Steel"
+    ]
+  },
+  {
+    "name": "Robot Shooty Thing",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/d/d9/Rstd.png/revision/latest/scale-to-width-down/350?cb=20141027143314",
+    "species": [
+      "Robot Machine"
+    ],
+    "affiliations": [
+      "Rose Quartz",
+      "Crystal Gems"
+    ],
+    "status": [
+      "Inactive"
+    ],
+    "first_appearance": [
+      "\"Lion 2: The Movie\""
+    ]
+  },
+  {
+    "name": "Ronaldo Fryman",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/1/1b/Ronaldo_Fryman.png/revision/latest/scale-to-width-down/208?cb=20190122153301",
+    "nicknames": [
+      "Ronnie (Lars)",
+      "Social napalm (Lars)",
+      "Fryrocko (Pearl)",
+      "Curly (Amethyst)",
+      "Blood Fry (Pearl)",
+      "Jerk-Naldo (Himself)"
+    ],
+    "alias": [
+      "Loch Ness Bloggster",
+      "Bloodstone"
+    ],
+    "species": [
+      "Human"
+    ],
+    "weapons": [
+      "Katana"
+    ],
+    "sex": [
+      "Male"
+    ],
+    "hair": [
+      "Blonde"
+    ],
+    "affiliations": [
+      "Crystal Gems (temporary member, current ally)"
+    ],
+    "occupations": [
+      "Beach Citywalk Fries",
+      "Fryboy"
+    ],
+    "status": [
+      "Alive"
+    ],
+    "relatives": [
+      "Peedee Fryman (younger brother)",
+      "Mr. Fryman (father)",
+      "Unnamed mother"
+    ],
+    "friends": [
+      "Jane (girlfriend)",
+      "Steven Universe",
+      "Sadie Miller",
+      "Kiki Pizza",
+      "Jenny Pizza",
+      "Nanefua Pizza",
+      "Lars Barriga (formerly)",
+      "Orange Spodumene"
+    ],
+    "first_appearance": [
+      "\"Frybo\" (cameo)",
+      "\"Cat Fingers\" (debut)"
+    ],
+    "voice_actor": [
+      "Zachary Steel",
+      "Braden Fitzgerald (younger)"
+    ]
+  },
+  {
+    "name": "Rose Quartz",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f9/Rose_Quartz_-_Weaponized.png/revision/latest/scale-to-width-down/350?cb=20190115021346",
+    "nicknames": [
+      "Rose (Crystal Gems, Greg, Jasper)",
+      "Mom (Steven)"
+    ],
+    "alias": [
+      "Pink Diamond"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "weapons": [
+      "Shield",
+      "Sword (non-summoned)"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Pink"
+    ],
+    "eyes": [
+      "Black"
+    ],
+    "gemstone": [
+      "Pink Diamond"
+    ],
+    "gem_type": [
+      "Diamond"
+    ],
+    "affiliations": [
+      "Gem Homeworld (formerly)",
+      "Crystal Gems (leader; formerly)"
+    ],
+    "occupations": [
+      "Guardian (formerly)",
+      "Matriarch (formerly)"
+    ],
+    "alignment": [
+      "Crystal Gems"
+    ],
+    "status": [
+      "Deceased"
+    ],
+    "relatives": [
+      "Greg Universe (boyfriend)",
+      "Steven Universe (son)"
+    ],
+    "friends": [
+      "Crystal Gems",
+      "Buddy Buddwick"
+    ],
+    "first_appearance": [
+      "\"Gem Glow\" (pictured)",
+      "\"Laser Light Cannon\" (mentioned, pictured)",
+      "\"An Indirect Kiss\" (statue)",
+      "\"Lion 3: Straight to Video\" (tape)",
+      "\"Story for Steven\" (debut, flashback)"
+    ],
+    "music_theme": [
+      "\"Rose's Theme\""
+    ],
+    "voice_actor": [
+      "Susan Egan"
+    ]
+  },
+  {
+    "name": "Rose Quartz",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/2/2b/Hippie_Rose_Quartz.png/revision/latest/scale-to-width-down/277?cb=20191214130449",
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Pink"
+    ],
+    "gemstone": [
+      "Rose Quartz"
+    ],
+    "gem_type": [
+      "Quartz"
+    ],
+    "affiliations": [
+      "Gem Homeworld",
+      "Pink Diamond (former superior)"
+    ],
+    "occupations": [
+      "Soldier (formerly)"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Steven",
+      "Shy Rose Quartz",
+      "Superfan Rose Quartz"
+    ],
+    "first_appearance": [
+      "\"That Will Be All\" (gemstone only)",
+      "\"Rose Buds\" (debut)"
+    ],
+    "voice_actor": [
+      "Kimberly Brooks"
+    ]
+  },
+  {
+    "name": "Rose Quartz",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/7/72/Shy_Rose_Quartz.png/revision/latest/scale-to-width-down/312?cb=20191225131818",
+    "nicknames": [
+      "Mom (Steven)"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Pink"
+    ],
+    "gemstone": [
+      "Rose Quartz"
+    ],
+    "gem_type": [
+      "Quartz"
+    ],
+    "affiliations": [
+      "Gem Homeworld",
+      "Pink Diamond (former superior)"
+    ],
+    "occupations": [
+      "Soldier (formerly)"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Steven",
+      "Superfan Rose Quartz",
+      "Hippie Rose Quartz"
+    ],
+    "first_appearance": [
+      "\"That Will Be All\" (gemstone only)",
+      "\"Rose Buds\" (debut)"
+    ],
+    "voice_actor": [
+      "Kimberly Brooks"
+    ]
+  },
+  {
+    "name": "Rose Quartz",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/7/76/Superfan_Rose_with_hair_shading.png/revision/latest/scale-to-width-down/270?cb=20191214130450",
+    "species": [
+      "Gem"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Pink"
+    ],
+    "gemstone": [
+      "Rose Quartz"
+    ],
+    "gem_type": [
+      "Quartz"
+    ],
+    "affiliations": [
+      "Gem Homeworld",
+      "Pink Diamond (former superior)"
+    ],
+    "occupations": [
+      "Soldier (formerly)"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Steven Universe",
+      "Shy Rose Quartz",
+      "Hippie Rose Quartz"
+    ],
+    "first_appearance": [
+      "\"That Will Be All\" (gemstone only)",
+      "\"Rose Buds\" (debut)"
+    ],
+    "voice_actor": [
+      "Kimberly Brooks"
+    ]
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  {
+    "name": "Ruby",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f6/Ruby_-_Weaponized.png/revision/latest/scale-to-width-down/350?cb=20190223220556",
+    "nicknames": [
+      "Eternal Flame (herself)",
+      "Ruby Rider (herself)",
+      "Sweetums (Sapphire)"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "weapons": [
+      "Gauntlet"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Dark burgundy"
+    ],
+    "eyes": [
+      "Dark red"
+    ],
+    "gemstone": [
+      "Ruby"
+    ],
+    "gem_type": [
+      "Ruby"
+    ],
+    "affiliations": [
+      "Gem Homeworld (formerly)"
+    ],
+    "occupations": [
+      "Soldier (formerly)",
+      "Guardian"
+    ],
+    "alignment": [
+      "Crystal Gems"
+    ],
+    "status": [
+      "Active (fused)"
+    ],
+    "relatives": [
+      "Sapphire (wife)"
+    ],
+    "friends": [
+      "Crystal Gems",
+      "Greg Universe"
+    ],
+    "first_appearance": [
+      "\"Fusion Cuisine\" (cameo)",
+      "\"The Return\" (gemstone only)",
+      "\"Jail Break\" (debut)"
+    ],
+    "voice_actor": [
+      "Charlyne Yi"
+    ]
+  },
+  {
+    "name": "Ruby",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/0/0b/Left_Shoulder_Ruby_by_Lenhi.png/revision/latest/scale-to-width-down/323?cb=20160606131242",
+    "nicknames": [
+      "Army (Steven)"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Dark burgundy"
+    ],
+    "eyes": [
+      "Black"
+    ],
+    "gemstone": [
+      "Ruby"
+    ],
+    "gem_type": [
+      "Ruby"
+    ],
+    "affiliations": [
+      "Gem Homeworld",
+      "Yellow Diamond (superior)"
+    ],
+    "occupations": [
+      "Soldier"
+    ],
+    "alignment": [
+      "Homeworld Gems"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Ruby (Doc)",
+      "Ruby (Leggy)",
+      "Ruby (Navy)",
+      "Ruby (Eyeball)"
+    ],
+    "first_appearance": [
+      "\"Hit The Diamond\""
+    ],
+    "voice_actor": [
+      "Charlyne Yi"
+    ]
+  },
+  {
+    "name": "Ruby",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/c/c6/Chest_Ruby_by_Lenhi.png/revision/latest/scale-to-width-down/344?cb=20160606131219",
+    "nicknames": [
+      "Doc (Steven)"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Dark burgundy"
+    ],
+    "eyes": [
+      "Dark red"
+    ],
+    "gemstone": [
+      "Ruby"
+    ],
+    "gem_type": [
+      "Ruby"
+    ],
+    "affiliations": [
+      "Gem Homeworld",
+      "Yellow Diamond (superior)"
+    ],
+    "occupations": [
+      "Soldier"
+    ],
+    "alignment": [
+      "Homeworld Gems"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Ruby (Eyeball)",
+      "Ruby (Leggy)",
+      "Ruby (Navy)",
+      "Ruby (Army)"
+    ],
+    "first_appearance": [
+      "\"Hit The Diamond\""
+    ],
+    "voice_actor": [
+      "Charlyne Yi"
+    ]
+  },
+  {
+    "name": "Ruby",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/b/b5/Eyeball_MS_Pose_1_By_TheOffColors.png/revision/latest/scale-to-width-down/350?cb=20190219232647",
+    "nicknames": [
+      "Eyeball (Steven)"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "weapons": [
+      "Chisel Knife"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Dark burgundy"
+    ],
+    "eyes": [
+      "Black"
+    ],
+    "gemstone": [
+      "Ruby"
+    ],
+    "gem_type": [
+      "Ruby"
+    ],
+    "affiliations": [
+      "Gem Homeworld",
+      "Yellow Diamond (former superior)"
+    ],
+    "occupations": [
+      "Soldier (formerly)"
+    ],
+    "alignment": [
+      "Homeworld Gems (rogue)"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Ruby (Doc)",
+      "Ruby (Leggy)",
+      "Ruby (Navy)",
+      "Ruby (Army)",
+      "Aquamarine (fusion partner)"
+    ],
+    "first_appearance": [
+      "\"Barn Mates\""
+    ],
+    "voice_actor": [
+      "Charlyne Yi"
+    ]
+  },
+  {
+    "name": "Ruby",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/8d/Ruby%E2%81%B5.png/revision/latest/scale-to-width-down/284?cb=20160918194418",
+    "nicknames": [
+      "Giant Ruby"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Dark Burgundy"
+    ],
+    "eyes": [
+      "Dark Red"
+    ],
+    "gemstone": [
+      "Ruby"
+    ],
+    "gem_type": [
+      "Ruby (Fusion)"
+    ],
+    "affiliations": [
+      "Gem Homeworld",
+      "Yellow Diamond (superior)"
+    ],
+    "occupations": [
+      "Soldier"
+    ],
+    "alignment": [
+      "Homeworld Gems"
+    ],
+    "first_appearance": [
+      "\"Hit the Diamond\""
+    ],
+    "voice_actor": [
+      "Charlyne Yi"
+    ]
+  },
+  {
+    "name": "Ruby",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/f/fc/Ruby_Left_Thigh_by_King.png/revision/latest/scale-to-width-down/350?cb=20160606131709",
+    "nicknames": [
+      "Leggy (Steven)",
+      "Newbie (other Rubies)"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Dark burgundy"
+    ],
+    "eyes": [
+      "Dark red"
+    ],
+    "gemstone": [
+      "Ruby"
+    ],
+    "gem_type": [
+      "Ruby"
+    ],
+    "affiliations": [
+      "Gem Homeworld",
+      "Yellow Diamond (superior)"
+    ],
+    "occupations": [
+      "Soldier"
+    ],
+    "alignment": [
+      "Homeworld Gems"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Ruby (Doc)",
+      "Ruby (Eyeball)",
+      "Ruby (Navy)",
+      "Ruby (Army)"
+    ],
+    "first_appearance": [
+      "\"Hit The Diamond\""
+    ],
+    "voice_actor": [
+      "Charlyne Yi"
+    ]
+  },
+  {
+    "name": "Ruby",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/4/41/Stomach_Ruby_by_Lenhi.png/revision/latest/scale-to-width-down/307?cb=20160606131209",
+    "nicknames": [
+      "Navy (Steven)"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Dark burgundy"
+    ],
+    "eyes": [
+      "Dark red"
+    ],
+    "gemstone": [
+      "Ruby"
+    ],
+    "gem_type": [
+      "Ruby"
+    ],
+    "affiliations": [
+      "Gem Homeworld",
+      "Yellow Diamond (superior)",
+      "Crystal Gems (temporary ally)"
+    ],
+    "occupations": [
+      "Soldier"
+    ],
+    "alignment": [
+      "Homeworld Gems"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Ruby (Doc)",
+      "Ruby (Leggy)",
+      "Ruby (Eyeball)",
+      "Ruby (Army)"
+    ],
+    "first_appearance": [
+      "\"Hit the Diamond\""
+    ],
+    "voice_actor": [
+      "Charlyne Yi"
+    ]
+  },
+  {
+    "name": "Rutile Twins",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/0/0d/Rutile_Twins_%28Modelsheet%29_by_RylerGamerDBS.png/revision/latest/scale-to-width-down/255?cb=20190717221157",
+    "nicknames": [
+      "Twins of Rutile (Padparadscha)",
+      "Twins (Lars Barriga)"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her (individually)",
+      "They/Them (together)"
+    ],
+    "hair": [
+      "Red"
+    ],
+    "eye": [
+      "Black"
+    ],
+    "gemstone": [
+      "Rutile (clustered)"
+    ],
+    "gem_type": [
+      "Rutile"
+    ],
+    "affiliations": [
+      "Off Colors"
+    ],
+    "occupations": [
+      "Pilots"
+    ],
+    "alignment": [
+      "None"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Off Colors",
+      "Steven",
+      "Connie",
+      "Lars",
+      "Stevonnie",
+      "Garnet"
+    ],
+    "first_appearance": [
+      "\"Off Colors\""
+    ],
+    "voice_actor": [
+      "Ashly Burch"
+    ]
+  },
+  {
+    "name": "Sadie Killer and the Suspects",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/6/6f/Lars_of_the_Stars395.png/revision/latest/scale-to-width-down/350?cb=20180423173430",
+    "status": [
+      "Disbanded"
+    ],
+    "leader": [
+      "Sadie Miller (lead singer)"
+    ],
+    "members": [
+      "Sadie Miller",
+      "The Cool Kids",
+      "Sour Cream",
+      "Jenny Pizza",
+      "Buck Dewey",
+      "Steven Universe (occasionally)",
+      "Amethyst (briefly)",
+      "Greg Universe (manager)"
+    ]
+  },
+  {
+    "name": "Sadie Miller",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/4/4c/Sadie_Little_Graduation_With_Scar.png/revision/latest/scale-to-width-down/350?cb=20191231224115",
+    "nicknames": [
+      "Player 2 (Lars)",
+      "My Lady (Steven)",
+      "My Girl (Barbara Miller)",
+      "Donut Girl (Jenny & Amethyst)"
+    ],
+    "alias": [
+      "Sadie Killer (stage name; formerly)"
+    ],
+    "species": [
+      "Human"
+    ],
+    "sex": [
+      "Female"
+    ],
+    "age": [
+      "At least 18 (\"Are You My Dad?\")",
+      "At least 20 (Steven Universe: The Movie)"
+    ],
+    "hair": [
+      "Blonde",
+      "Green (Dyed; \"Change Your Mind\" only",
+      "Blonde with green ends (Dyed; Steven Universe: The Movie and \"Little Homeschool\" only)"
+    ],
+    "eyes": [
+      "Black"
+    ],
+    "occupations": [
+      "Big Donut Cashier/Stocker (formerly)",
+      "Frontman (formerly)"
+    ],
+    "status": [
+      "Alive"
+    ],
+    "relatives": [
+      "Barbara Miller (mother)"
+    ],
+    "friends": [
+      "Steven (former bandmate)",
+      "Lars (former romantic interest)",
+      "Ronaldo",
+      "The Cool Kids (former bandmates)",
+      "Shep (romantic partner)"
+    ],
+    "first_appearance": [
+      "Pilot (non-canon)",
+      "\"Gem Glow\" (main series)"
+    ],
+    "voice_actor": [
+      "Kate Micucci"
+    ]
+  },
+  {
+    "name": "Sapphire",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/6/64/Dan_Sapphy_ur_Freezies_with_Gem.png/revision/latest/scale-to-width-down/350?cb=20190223221703",
+    "nicknames": [
+      "Your (Grand) Clarity (Holly Blue Agate)",
+      "Laughy Sapphy (Ruby)"
+    ],
+    "alias": [
+      "Sophie (\"Hit The Diamond\")"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Pale blue"
+    ],
+    "eye": [
+      "Dodgerblue"
+    ],
+    "gemstone": [
+      "Sapphire"
+    ],
+    "gem_type": [
+      "Sapphire"
+    ],
+    "affiliations": [
+      "Gem Homeworld (formerly)",
+      "Blue Diamond (former superior)"
+    ],
+    "occupations": [
+      "Aristocrat (formerly)",
+      "Guardian"
+    ],
+    "alignment": [
+      "Crystal Gems"
+    ],
+    "status": [
+      "Active (fused)"
+    ],
+    "relatives": [
+      "Ruby (wife)"
+    ],
+    "friends": [
+      "Crystal Gems",
+      "Greg Universe"
+    ],
+    "first_appearance": [
+      "\"Fusion Cuisine\" (cameo)",
+      "\"The Return\" (gemstone only)",
+      "\"Jail Break\" (debut)"
+    ],
+    "voice_actor": [
+      "Erica Luttrell"
+    ]
+  },
+  {
+    "image": ""
+  },
+  {
+    "name": "Sardonyx",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/b/b7/Sardonyx_by_Lenhi.png/revision/latest/scale-to-width-down/350?cb=20160815205826",
+    "nicknames": [
+      "Sards (Smoky Quartz)",
+      "Giant Woman (Steven)"
+    ],
+    "alias": [
+      "The Lovely Sardonyx"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "weapons": [
+      "War Hammer"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "height": [
+      "20' [1]"
+    ],
+    "hair": [
+      "Apricot"
+    ],
+    "eyes": [
+      "Top: Magenta",
+      "Bottom: Crimson"
+    ],
+    "gemstone": [
+      "Sardonyx"
+    ],
+    "gem_type": [
+      "Fusion"
+    ],
+    "occupations": [
+      "Guardian"
+    ],
+    "alignment": [
+      "Crystal Gems"
+    ],
+    "friends": [
+      "Crystal Gems",
+      "Smoky Quartz"
+    ],
+    "first_appearance": [
+      "\"Cry for Help\""
+    ],
+    "music_theme": [
+      "Enticement (fusion theme)",
+      "Sardonyx"
+    ],
+    "voice_actor": [
+      "Alexia Khadime"
+    ]
+  },
+  {
+    "name": "Scorching Shard",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/2/2e/Scorching_Shard.png/revision/latest?cb=20180716140822",
+    "species": [
+      "Gem (Corrupted)"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gemstone": [
+      "Unknown"
+    ],
+    "gem_type": [
+      "Unknown"
+    ],
+    "status": [
+      "Inactive (Bubbled)"
+    ],
+    "first_appearance": [
+      "Issue 15 (2017)"
+    ]
+  },
+  {
+    "name": "Secret Team (group)",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/e/e7/Secret_Team_092.png/revision/latest/scale-to-width-down/350?cb=20160630172713",
+    "nicknames": [
+      "The Secret Club (Pearl)"
+    ],
+    "status": [
+      "Inactive"
+    ],
+    "leader": [
+      "Steven"
+    ],
+    "members": [
+      "Steven",
+      "Pearl",
+      "Amethyst"
+    ]
+  },
+  {
+    "name": "Shadow Connie",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/0/0a/Shadow_Connie.png/revision/latest/scale-to-width-down/350?cb=20151122103544",
+    "species": [
+      "Shadow"
+    ],
+    "first_appearance": [
+      "\"Sword Dancers\""
+    ]
+  },
+  {
+    "name": "Shell",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/0/06/Shell.png/revision/latest/scale-to-width-down/350?cb=20191214113035",
+    "species": [
+      "A.I."
+    ],
+    "occupations": [
+      "Guide and guardian of The Reef"
+    ],
+    "alignment": [
+      "Homeworld Gems"
+    ],
+    "first_appearance": [
+      "\"Volleyball\""
+    ],
+    "voice_actor": [
+      "Deedee Magno-Hall"
+    ]
+  },
+  {
+    "name": "Shep",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/4/40/Shep_by_RylerGamerDBS.png/revision/latest/scale-to-width-down/214?cb=20191231103123",
+    "species": [
+      "Human"
+    ],
+    "sex": [
+      "Unknown"
+    ],
+    "gender_pronoun": [
+      "They/Them"
+    ],
+    "outfit": [
+      "White crop-top with abstract design",
+      "Saggy purple pants",
+      "Blue and white high tops"
+    ],
+    "accessories": [
+      "Backward red and white hat",
+      "Gold nose ring",
+      "Multicolored bracelets"
+    ],
+    "hair": [
+      "Dark brown"
+    ],
+    "eyes": [
+      "Black"
+    ],
+    "status": [
+      "Alive"
+    ],
+    "friends": [
+      "Sadie Miller (girlfriend)",
+      "Steven Universe",
+      "Lars Barriga"
+    ],
+    "first_appearance": [
+      "\"Little Graduation\""
+    ],
+    "voice_actor": [
+      "Indya Moore"
+    ]
+  },
+  {
+    "name": "Slug Monster",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/6/64/Slug_Monster.PNG/revision/latest/scale-to-width-down/350?cb=20190223033210",
+    "species": [
+      "Gem (Corrupted)"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "eyes": [
+      "Light green"
+    ],
+    "status": [
+      "Inactive (Bubbled)"
+    ],
+    "first_appearance": [
+      "Issue 4"
+    ]
+  },
+  {
+    "name": "Smoke Monster",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/e/e2/Screen_Shot_2015-2-5_at_8-36_AM.png/revision/latest?cb=20160502123642",
+    "species": [
+      "Gem Spirit"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "status": [
+      "Inactive (Incinerated)"
+    ],
+    "first_appearance": [
+      "\"Together Breakfast\""
+    ]
+  },
+  {
+    "name": "Smoky Quartz",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/6/60/Smoky_Quartz_3.png/revision/latest/scale-to-width-down/350?cb=20191208221312",
+    "nicknames": [
+      "Smoky",
+      "My Darling (Sardonyx)"
+    ],
+    "species": [
+      "75% Gem",
+      "25% Human"
+    ],
+    "weapons": [
+      "Yo-yo"
+    ],
+    "sex": [
+      "Unknown"
+    ],
+    "gender_pronoun": [
+      "They/Them"
+    ],
+    "hair": [
+      "Dark brown"
+    ],
+    "eyes": [
+      "Black"
+    ],
+    "gemstone": [
+      "Smoky Quartz"
+    ],
+    "gem_type": [
+      "Fusion"
+    ],
+    "occupations": [
+      "Guardian"
+    ],
+    "alignment": [
+      "Crystal Gems"
+    ],
+    "friends": [
+      "Crystal Gems"
+    ],
+    "first_appearance": [
+      "\"Earthlings\""
+    ],
+    "music_theme": [
+      "\"Smoky Quartz\"",
+      "\"Consolation\" (fusion theme)"
+    ],
+    "voice_actor": [
+      "Natasha Lyonne"
+    ]
+  },
+  {
+    "name": "Snowbeast",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/b/b8/New_Snowbeast%3F.png/revision/latest/scale-to-width-down/350?cb=20170113154313",
+    "species": [
+      "Gem (corrupted)"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "eyes": [
+      "Red with black pupils"
+    ],
+    "status": [
+      "Inactive (Bubbled)"
+    ],
+    "first_appearance": [
+      "Issue 5"
+    ]
+  },
+  {
+    "name": "Snowflake Obsidian",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/c/c5/Snowflake_Obsidian_%28Modelsheet_2%29_by_RylerGamerDBS.png/revision/latest/scale-to-width-down/350?cb=20191217182036",
+    "nicknames": [
+      "Snowflake (Bismuth)"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "gemstone": [
+      "Snowflake Obsidian"
+    ],
+    "gem_type": [
+      "Obsidian"
+    ],
+    "affiliations": [
+      "Gem Homeworld (formerly)"
+    ],
+    "occupations": [
+      "Guardian",
+      "Ice Trench Digger (formerly)",
+      "Snow Cone Salesperson"
+    ],
+    "alignment": [
+      "Crystal Gems"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Crystal Gems",
+      "Steven",
+      "Bismuth",
+      "Larimar"
+    ],
+    "first_appearance": [
+      "\"Bismuth\" (mentioned)",
+      "\"Change Your Mind\" (debut)"
+    ],
+    "voice_actor": [
+      "Ian Jones-Quartey"
+    ]
+  },
+  {
+    "name": "Sour Cream",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/d/d2/Sour_Cream_Transparent.png/revision/latest/scale-to-width-down/167?cb=20180604040438",
+    "nicknames": [
+      "S.C., Broski & Main Cool Cat (Marty)",
+      "Mini Human (Rose)",
+      "Baby Cream (Greg)"
+    ],
+    "species": [
+      "Human"
+    ],
+    "sex": [
+      "Male"
+    ],
+    "complexion": [
+      "Fair"
+    ],
+    "hair": [
+      "Platinum Blonde"
+    ],
+    "eyes": [
+      "Ice Blue"
+    ],
+    "occupations": [
+      "DJ",
+      "Band member (formerly)"
+    ],
+    "status": [
+      "Active"
+    ],
+    "relatives": [
+      "Vidalia (mother)",
+      "Marty (father)",
+      "Yellowtail (stepfather)",
+      "Onion (younger half-brother)"
+    ],
+    "friends": [
+      "Jenny Pizza",
+      "Buck Dewey",
+      "Steven Universe",
+      "Sadie Miller",
+      "Lars Barriga",
+      "Kevin",
+      "Stevonnie"
+    ],
+    "first_appearance": [
+      "\"Frybo\" (cameo)",
+      "\"Lars and the Cool Kids\" (debut)"
+    ],
+    "voice_actor": [
+      "Brian Posehn"
+    ]
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+  },
+  {
+    "name": "Spinel",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/b/b5/Spinel_%28Modelsheet_Current%29_by_RylerGamerDBS.png/revision/latest/scale-to-width-down/350?cb=20191016032640",
+    "nicknames": [
+      "My \"New Best Friend\" (Steven)",
+      "Pink's little playmate (Pearl, Yellow Diamond)"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "weapons": [
+      "Gem Rejuvenator (Non-summoned)",
+      "Elasticity"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Dark-Red"
+    ],
+    "eyes": [
+      "Dark-Magenta (current)",
+      "Black (previous)"
+    ],
+    "gemstone": [
+      "Spinel"
+    ],
+    "gem_type": [
+      "Spinel"
+    ],
+    "affiliations": [
+      "Gem Homeworld",
+      "Pink Diamond (former superior)",
+      "The Great Diamond Authority (superiors)"
+    ],
+    "occupations": [
+      "Jester"
+    ],
+    "alignment": [
+      "Homeworld Gems"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Crystal Gems",
+      "Steven Universe",
+      "Garnet",
+      "Amethyst",
+      "Pearl",
+      "Pink Diamond (formerly)",
+      "White Diamond",
+      "Yellow Diamond",
+      "Blue Diamond"
+    ],
+    "first_appearance": [
+      "Steven Universe: The Movie"
+    ],
+    "voice_actor": [
+      "Sarah Stiles"
+    ]
+  },
+  {
+    "name": "Steg",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/83/Steg_%28Modelsheet_4%29_by_RylerGamerDBS.png/revision/latest/scale-to-width-down/258?cb=20191113001914",
+    "species": [
+      "25% Gem",
+      "75% Human"
+    ],
+    "weapons": [
+      "Double-Neck Electric Guitar"
+    ],
+    "sex": [
+      "Male"
+    ],
+    "gender_pronoun": [
+      "He/Him"
+    ],
+    "age": [
+      "58"
+    ],
+    "gemstone": [
+      "Pink Diamond"
+    ],
+    "gem_type": [
+      "Fusion"
+    ],
+    "affiliations": [
+      "Crystal Gems"
+    ],
+    "occupations": [
+      "Guardian",
+      "Rock star"
+    ],
+    "friends": [
+      "Crystal Gems"
+    ],
+    "first_appearance": [
+      "Steven Universe: The Movie"
+    ],
+    "music_theme": [
+      "\"Let's Duet\" (fusion theme)",
+      "\"Independent Together\""
+    ],
+    "voice_actor": [
+      "Ted Leo"
+    ]
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/0/00/Steven_and_the_Stevens_132.png/revision/latest/scale-to-width-down/250?cb=20161020004033"
+  },
+  {
+    "name": "Steven Jr.",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/5/55/Su_steven-jr.png/revision/latest?cb=20140619145510",
+    "nicknames": [
+      "Magical Goat Guardian (Steven)"
+    ],
+    "species": [
+      "Goat"
+    ],
+    "sex": [
+      "Male"
+    ],
+    "affiliations": [
+      "Steven (Adoptive father)",
+      "Steven the Third (Offspring)",
+      "Unnamed Goat Child (Offspring)",
+      "Unknown Mate"
+    ],
+    "status": [
+      "Alive"
+    ],
+    "friends": [
+      "Pearl",
+      "Amethyst",
+      "Steven"
+    ],
+    "first_appearance": [
+      "\"Giant Woman\""
+    ]
+  },
+  {
+    "name": "Steven Universe",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/1/13/Future_Steven.png/revision/latest/scale-to-width-down/350?cb=20200118163817",
+    "nicknames": [
+      "Schtu-ball (Greg)",
+      "Little Rose (Amethyst)",
+      "Little Man (Amethyst, Sugilite, Greg)",
+      "Steve-O (Amethyst)",
+      "Car Wash Kid (Bill Dewey)",
+      "Beach Summer Fun Buddy (Lapis Lazuli)",
+      "Rose (Jasper)",
+      "Jam Bud (Connie)",
+      "Biscuit (Connie)",
+      "My Liege (Connie)",
+      "A/The Steven (Peridot, \"Squaridot\", Aquamarine)",
+      "My-Dad (Aquamarine)",
+      "Stevon (Zoomans)",
+      "Star Child Jr. (Marty)",
+      "Wedding Planner (Garnet)",
+      "Cutie Pie (Garnet)",
+      "Steve-aroni (Greg)",
+      "Pink (The Great Diamond Authority, Pebbles)",
+      "My Diamond (Followers)",
+      "Starlight (White Diamond)",
+      "Pink Lasagna (Yellow Pearl)",
+      "Amethyst (Rejuvenated Amethyst)",
+      "Best Friend (Rejuvenated Spinel)",
+      "Curly-Haired One (Rejuvenated Ruby and Sapphire)"
+    ],
+    "alias": [
+      "Tiger Millionaire/Tiger Philanthropist",
+      "Peter Pizzapoppolis"
+    ],
+    "species": [
+      "Half-Gem",
+      "Half-Human"
+    ],
+    "weapons": [
+      "Shield"
+    ],
+    "sex": [
+      "Male"
+    ],
+    "gender_pronoun": [
+      "He/Him"
+    ],
+    "age": [
+      "13 (\"Gem Glow\" to \"Too Far\")",
+      "14 (\"The Answer\" to \"Change Your Mind\")",
+      "15 (Unleash the Light)",
+      "16 (Steven Universe: The Movie to \"A Very Special Episode\")",
+      "17 (\"Snow Day\" onwards)"
+    ],
+    "birthday": [
+      "August 15"
+    ],
+    "hair": [
+      "Dark brown"
+    ],
+    "eyes": [
+      "Black"
+    ],
+    "gemstone": [
+      "Pink diamond"
+    ],
+    "gem_type": [
+      "Diamond"
+    ],
+    "affiliations": [
+      "Off Colors (ally)",
+      "The Great Diamond Authority"
+    ],
+    "occupations": [
+      "Guardian",
+      "Monarch",
+      "Champion wrestler (formerly; as Tiger Millionaire/Tiger Philanthropist)",
+      "Fortune teller (formerly; as Zoltron)",
+      "Big Donut Cashier/Stocker (temporarily)",
+      "Teacher (formerly)",
+      "Doctor"
+    ],
+    "alignment": [
+      "Crystal Gems"
+    ],
+    "status": [
+      "Active"
+    ],
+    "relatives": [
+      "Greg Universe (father)",
+      "Rose Quartz/Pink Diamond (mother)",
+      "Greg's Aunt and Uncle (grandaunt and granduncle)",
+      "Deb (grandaunt)",
+      "Unnamed great-grandfather",
+      "Unnamed grandparents",
+      "Andy DeMayo (first cousin once removed)"
+    ],
+    "friends": [
+      "Garnet",
+      "Ruby",
+      "Sapphire",
+      "Amethyst",
+      "Pearl",
+      "Peridot",
+      "Bismuth",
+      "Lapis Lazuli",
+      "Connie Maheswaran (best friend/romantic interest)",
+      "Lars Barriga",
+      "Sadie Miller",
+      "Ronaldo Fryman",
+      "Sour Cream",
+      "Buck Dewey",
+      "Jenny Pizza",
+      "Kiki Pizza",
+      "Bill Dewey",
+      "Peedee Fryman",
+      "Jamie",
+      "Vidalia",
+      "Kofi Pizza",
+      "Nanefua Pizza",
+      "Barbara Miller",
+      "Mr. Fryman",
+      "Onion",
+      "Harold Smiley",
+      "Watermelon Stevens",
+      "Pumpkin",
+      "Nephrite",
+      "The Cluster",
+      "George",
+      "Hessonite",
+      "The Famethyst",
+      "Rhodonite",
+      "Padparadscha",
+      "Fluorite",
+      "Rutile Twins",
+      "Pebbles",
+      "Yellow Diamond",
+      "Yellow Pearl",
+      "Blue Diamond",
+      "Blue Pearl",
+      "White Diamond",
+      "Pink Pearl",
+      "Spinel",
+      "Onion's Friends",
+      "Cherry Quartz",
+      "Snowflake Obsidian",
+      "Larimar",
+      "Zoomans",
+      "\"Shy\" Rose",
+      "\"Superfan\" Rose",
+      "\"Hippie\" Rose",
+      "Topaz",
+      "\"Nice\" Lapis",
+      "Cactus Steven"
+    ],
+    "first_appearance": [
+      "Pilot (non-canon)",
+      "\"Gem Glow\" (main series)"
+    ],
+    "music_theme": [
+      "\"Steven's Shield\""
+    ],
+    "voice_actor": [
+      "Zach Callison"
+    ]
+  },
+  {
+    "name": "Stevonnie",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/1/14/Stevonnie_Weaponized.png/revision/latest/scale-to-width-down/301?cb=20200208145510",
+    "nicknames": [
+      "Pink (by Yellow Diamond, Blue Diamond)"
+    ],
+    "species": [
+      "25% Gem",
+      "75% Human"
+    ],
+    "weapons": [
+      "Shield (summoned)",
+      "Rose's Sword (non-summoned; formerly)"
+    ],
+    "sex": [
+      "Intersex"
+    ],
+    "gender_pronoun": [
+      "They/Them"
+    ],
+    "age": [
+      "26 years and 9 months (\"Steven's Birthday\")",
+      "28 years and 3 months (\"Reunited\" to \"Change Your Mind\")"
+    ],
+    "hair": [
+      "Dark Brown"
+    ],
+    "eyes": [
+      "Black"
+    ],
+    "gemstone": [
+      "Pink Diamond"
+    ],
+    "gem_type": [
+      "Fusion"
+    ],
+    "occupations": [
+      "Guardian"
+    ],
+    "alignment": [
+      "Crystal Gems"
+    ],
+    "friends": [
+      "Crystal Gems",
+      "Lion",
+      "Greg Universe",
+      "Lars Barriga",
+      "Off Colors",
+      "Sadie Miller",
+      "Sour Cream",
+      "Jenny Pizza",
+      "Ronaldo Fryman",
+      "Kiki Pizza"
+    ],
+    "first_appearance": [
+      "\"Alone Together\""
+    ],
+    "music_theme": [
+      "\"Alone Together\" (fusion theme)",
+      "\"Twilight Run\""
+    ],
+    "voice_actor": [
+      "Amanda Joy Michalka"
+    ]
+  },
+  {
+    "name": "Sugilite",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/d/d2/Sugilite_-_Cry_for_Help_with_Flail.png/revision/latest/scale-to-width-down/350?cb=20151213211659",
+    "species": [
+      "Gem"
+    ],
+    "weapons": [
+      "Flail"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Dark purple-black"
+    ],
+    "eyes": [
+      "Dark Lilac"
+    ],
+    "gemstone": [
+      "Sugilite"
+    ],
+    "gem_type": [
+      "Fusion"
+    ],
+    "occupations": [
+      "Guardian"
+    ],
+    "alignment": [
+      "Crystal Gems"
+    ],
+    "friends": [
+      "Steven"
+    ],
+    "first_appearance": [
+      "\"Coach Steven\""
+    ],
+    "music_theme": [
+      "\"Synchronize/Sugilite\""
+    ],
+    "voice_actor": [
+      "Nicki Minaj"
+    ]
+  },
+  {
+    "name": "Sunstone",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/c/c0/Sunstone_SUF.png/revision/latest/scale-to-width-down/350?cb=20191218005652",
+    "species": [
+      "83.3% (5/6) Gem",
+      "16.6% (1/6) Human"
+    ],
+    "weapons": [
+      "Suction Cups"
+    ],
+    "sex": [
+      "Unknown"
+    ],
+    "gender_pronoun": [
+      "They/Them",
+      "She/Her"
+    ],
+    "hair": [
+      "Orange"
+    ],
+    "gemstone": [
+      "Sunstone"
+    ],
+    "gem_type": [
+      "Fusion"
+    ],
+    "occupations": [
+      "Guardian"
+    ],
+    "alignment": [
+      "Crystal Gems"
+    ],
+    "friends": [
+      "Crystal Gems"
+    ],
+    "first_appearance": [
+      "\"Change Your Mind\""
+    ],
+    "music_theme": [
+      "\"Sunstone\""
+    ],
+    "voice_actor": [
+      "Shoniqua Shandai"
+    ]
+  },
+  {
+    "name": "Susan",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/2/29/Susan_crop.png/revision/latest/scale-to-width-down/350?cb=20170422174813",
+    "species": [
+      "Unknown Songbird"
+    ],
+    "status": [
+      "Alive"
+    ],
+    "friends": [
+      "Steven",
+      "Lapis Lazuli",
+      "Peridot"
+    ],
+    "first_appearance": [
+      "\"Issue 1 (2017)\""
+    ]
+  },
+  {
+    "name": "The Slinker",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/c/cc/DaSlinkeh.png/revision/latest/scale-to-width-down/350?cb=20150906233258",
+    "species": [
+      "Gem (corrupted)"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "gemstone": [
+      "Unknown"
+    ],
+    "gem_type": [
+      "Unknown"
+    ],
+    "status": [
+      "Unknown"
+    ],
+    "first_appearance": [
+      "\"Reformed\""
+    ]
+  },
+  {
+    "name": "Tiger Millionaire/Tiger Philanthropist",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/87/Tiger_Steven_fixed.png/revision/latest/scale-to-width-down/294?cb=20160830085451",
+    "titless": [
+      "Tiger By \"Lars Barriga\""
+    ],
+    "alias": [
+      "Steven Universe"
+    ],
+    "species": [
+      "Half-Gem",
+      "Half-Human",
+      "(masquerading as a tiger)"
+    ],
+    "sex": [
+      "Male"
+    ],
+    "gender_pronoun": [
+      "He/Him"
+    ],
+    "hair": [
+      "Brown"
+    ],
+    "eyes": [
+      "Black"
+    ],
+    "gemstone": [
+      "Pink Diamond"
+    ],
+    "gem_type": [
+      "Diamond"
+    ],
+    "affiliations": [
+      "Beach City Underground Wrestling",
+      "Crystal Gems"
+    ],
+    "occupations": [
+      "Tag Team wrestler"
+    ],
+    "status": [
+      "Inactive"
+    ],
+    "relatives": [
+      "Unnamed Tiger Parents"
+    ],
+    "friends": [
+      "Purple Puma (Amethyst)"
+    ],
+    "first_appearance": [
+      "\"Tiger Millionaire\""
+    ],
+    "music_theme": [
+      "\"Purple Puma and Tiger Millionaire\""
+    ],
+    "voice_actor": [
+      "Zach Callison"
+    ]
+  },
+  {
+    "name": "Tiny Floating Whale",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/7/7b/TFW.png/revision/latest?cb=20140629185937",
+    "species": [
+      "Magical Whale"
+    ],
+    "sex": [
+      "Sexless (Female Voice)"
+    ],
+    "friends": [
+      "Steven"
+    ],
+    "first_appearance": [
+      "\"Rose's Room\""
+    ],
+    "voice_actor": [
+      "Susan Egan"
+    ]
+  },
+  {
+    "name": "Tongue Monster",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/9/9a/BirdMonster.png/revision/latest/scale-to-width-down/350?cb=20160812013222",
+    "species": [
+      "Gem (Corrupted)"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "gemstone": [
+      "Unknown"
+    ],
+    "gem_type": [
+      "Unknown"
+    ],
+    "status": [
+      "Inactive (Bubbled)"
+    ],
+    "first_appearance": [
+      "\"Kindergarten Kid\""
+    ],
+    "voice_actor": [
+      "Dee Bradley Baker"
+    ]
+  },
+  {
+    "name": "Topaz",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/3/31/Topaz_%28fusion%29.png/revision/latest/scale-to-width-down/350?cb=20170506072835",
+    "species": [
+      "Gem"
+    ],
+    "weapons": [
+      "Pugil Stick (Fused)",
+      "Maces (Unfused)"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Yellow"
+    ],
+    "eyes": [
+      "Brown"
+    ],
+    "gemstone": [
+      "Topaz"
+    ],
+    "gem_type": [
+      "Topaz (both components, unfused)",
+      "Topaz (Fusion)"
+    ],
+    "affiliations": [
+      "Gem Homeworld",
+      "Yellow Diamond (former superior)",
+      "Aquamarine (former commander)",
+      "Crystal Gems (ally)"
+    ],
+    "occupations": [
+      "Soldier & Escort"
+    ],
+    "alignment": [
+      "Homeworld Gems"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Steven Universe",
+      "Lars Barriga",
+      "Garnet"
+    ],
+    "first_appearance": [
+      "\"Doug Out\" (shadow)",
+      "\"Are You My Dad?\" (debut)"
+    ],
+    "voice_actor": [
+      "Martha Higareda"
+    ]
+  },
+  {
+    "image": ""
+  },
+  {
+    "name": "Obsidian",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/3/33/Goddessofnoogies.png/revision/latest/scale-to-width-down/332?cb=20190208225209",
+    "nicknames": [
+      "Goddess of Noogies (William Dewey, played by Steven)",
+      "Giant Woman (William Dewey, played by Steven)"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "weapons": [
+      "Magma Sword"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "gemstone": [
+      "Obsidian"
+    ],
+    "gem_type": [
+      "Fusion"
+    ],
+    "affiliations": [
+      "Crystal Gems"
+    ],
+    "occupations": [
+      "Guardian"
+    ],
+    "alignment": [
+      "Crystal Gems"
+    ],
+    "status": [
+      "Inactive"
+    ],
+    "friends": [
+      "William Dewey"
+    ],
+    "first_appearance": [
+      "\"Gem Glow\" (statue)",
+      "\"Historical Friction\" (play depiction)"
+    ]
+  },
+  {
+    "image": ""
+  },
+  {
+    "name": "Unknown Giant Bird",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/2/2e/Unknown_Giant_Bird_template_picture.png/revision/latest?cb=20151003024100",
+    "species": [
+      "Gem (corrupt)"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Blue Feathers"
+    ],
+    "status": [
+      "Inactive (Bubbled)"
+    ],
+    "first_appearance": [
+      "Steven Universe: Greg Universe Special"
+    ]
+  },
+  {
+    "name": "Vidalia",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/8f/Vidalia_by_Lenhi.png/revision/latest/scale-to-width-down/237?cb=20151220002454",
+    "nicknames": [
+      "Mother Onion (Garnet)"
+    ],
+    "species": [
+      "Human"
+    ],
+    "sex": [
+      "Female"
+    ],
+    "hair": [
+      "Blonde"
+    ],
+    "eyes": [
+      "Black"
+    ],
+    "status": [
+      "Alive"
+    ],
+    "relatives": [
+      "Marty (ex-lover)",
+      "Yellowtail (husband)",
+      "Sour Cream (son with Marty)",
+      "Onion (son with Yellowtail)"
+    ],
+    "friends": [
+      "Amethyst",
+      "Steven",
+      "Greg",
+      "Barb",
+      "Garnet"
+    ],
+    "first_appearance": [
+      "\"Story for Steven\" (flashback)",
+      "\"Onion Friend\" (debut)"
+    ],
+    "voice_actor": [
+      "Jackie Buscarino"
+    ]
+  },
+  {
+    "name": "Vine Monsters",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f8/Vine_Monsters_by_Kyrope.png/revision/latest/scale-to-width-down/350?cb=20191227194618",
+    "species": [
+      "Miscellaneous Monster"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "status": [
+      "Unknown"
+    ],
+    "first_appearance": [
+      "Issue 7"
+    ]
+  },
+  {
+    "name": "Violet Light",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/1/16/PurpleLight.png/revision/latest?cb=20160709050215",
+    "species": [
+      "Light Creature"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "first_appearance": [
+      "Attack the Light"
+    ]
+  },
+  {
+    "name": "Watermelon Stevens",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/3/30/SWI_Watermelon_Steven_by_Lenhi.png/revision/latest/scale-to-width-down/319?cb=20160515185334",
+    "species": [
+      "Watermelon Steven"
+    ],
+    "status": [
+      "Extant"
+    ],
+    "first_appearance": [
+      "\"Watermelon Steven\""
+    ],
+    "music_theme": [
+      "\"Watermelon Steven (soundtrack)\""
+    ],
+    "voice_actor": [
+      "Zach Callison"
+    ]
+  },
+  {
+    "name": "Watermelon Tourmaline",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/c/c0/WatermelonTourmaline1_By_TheOffColors.png/revision/latest/scale-to-width-down/350?cb=20191216005949",
+    "nicknames": [
+      "Giant Pufferfish (Crystal Gems)"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "gemstone": [
+      "Watermelon Tourmaline"
+    ],
+    "gem_type": [
+      "Tourmaline (possibly fusion or clustered)"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Steven",
+      "Nephrite",
+      "Biggs Jasper",
+      "Orange Spodumene",
+      "Heaven Beetle",
+      "Earth Beetle",
+      "Ocean Jasper"
+    ],
+    "first_appearance": [
+      "\"Beach Party\""
+    ]
+  },
+  {
+    "name": "White Diamond",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/5/5c/White_Diamond_%28S5%29_by_RylerGamerDBS.png/revision/latest/scale-to-width-down/350?cb=20191201000908",
+    "nicknames": [
+      "White (Fellow Diamonds, Steven)",
+      "My Diamond (Followers)"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "weapons": [
+      "Gem Control Beam (non-summoned)"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "White"
+    ],
+    "eyes": [
+      "Light gray"
+    ],
+    "gemstone": [
+      "White diamond"
+    ],
+    "gem_type": [
+      "Diamond"
+    ],
+    "affiliations": [
+      "Gem Homeworld",
+      "The Great Diamond Authority (leader)",
+      "Crystal Gems (allied)"
+    ],
+    "occupations": [
+      "Matriarch"
+    ],
+    "alignment": [
+      "Homeworld Gems"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Yellow Diamond",
+      "Blue Diamond",
+      "Pink Diamond (formerly)",
+      "Steven Universe",
+      "Spinel"
+    ],
+    "first_appearance": [
+      "\"It Could've Been Great\" (pictured)",
+      "\"Your Mother and Mine\" (flashback)",
+      "\"Legs From Here to Homeworld\" (debut)"
+    ],
+    "music_theme": [
+      "\"White Diamond\""
+    ],
+    "voice_actor": [
+      "Christine Ebersole"
+    ]
+  },
+  {
+    "name": "George",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/b/be/Prism_george.png/revision/latest/scale-to-width-down/326?cb=20191202054631",
+    "nicknames": [
+      "White Light",
+      "Prism (Hessonite)"
+    ],
+    "alias": [
+      "Light Warrior (originally)",
+      "George (currently)"
+    ],
+    "species": [
+      "Light Creature"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "He/Him"
+    ],
+    "complexion": [
+      "White"
+    ],
+    "eyes": [
+      "Teal"
+    ],
+    "affiliations": [
+      "Homeworld (formerly)",
+      "Crystal Gems",
+      "Little Homeworld (presumably)"
+    ],
+    "occupations": [
+      "Weapon (formerly)",
+      "Round Friend"
+    ],
+    "alignment": [
+      "Homeworld Gems (formerly)",
+      "Hessonite (formerly)",
+      "Crystal Gems"
+    ],
+    "first_appearance": [
+      "Attack the Light"
+    ]
+  },
+  {
+    "name": "Pink Pearl",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/5/50/Pink_Pearl_%28Render_Future%29_by_RylerGamerDBS.png/revision/latest/scale-to-width-down/266?cb=20191228080805",
+    "nicknames": [
+      "Pearl (Steven)",
+      "Volleyball (Steven, Pearl)"
+    ],
+    "alias": [
+      "White Pearl (formerly; meta)"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "weapons": [
+      "Ribbon Wand"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Light pink",
+      "Light gray (controlled)"
+    ],
+    "eye": [
+      "Light pink",
+      "Light gray (controlled)"
+    ],
+    "gemstone": [
+      "(Pink) Pearl"
+    ],
+    "gem_type": [
+      "Pearl"
+    ],
+    "affiliations": [
+      "Gem Homeworld (former)",
+      "Pink Diamond (former owner/superior)",
+      "White Diamond (former owner/superior)",
+      "Crystal Gems (allied)"
+    ],
+    "occupations": [
+      "Servant (formerly)"
+    ],
+    "alignment": [
+      "Homeworld Gems"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Pink Diamond (formerly)",
+      "Steven Universe",
+      "Pearl"
+    ],
+    "first_appearance": [
+      "\"Legs From Here to Homeworld\""
+    ],
+    "voice_actor": [
+      "Deedee Magno-Hall (normal)",
+      "Christine Ebersole (controlled)"
+    ]
+  },
+  {
+    "name": "Orange Spodumene",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/9/94/Orange_Spodumene_By_Gekapy.png/revision/latest/scale-to-width-down/306?cb=20191116192847",
+    "species": [
+      "Gem"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "gemstone": [
+      "Orange Spodumene"
+    ],
+    "gem_type": [
+      "Spodumene"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Watermelon Tourmaline",
+      "Heaven Beetle",
+      "Earth Beetle",
+      "Ronaldo Fryman"
+    ],
+    "first_appearance": [
+      "\"Bubble Buddies\""
+    ],
+    "voice_actor": [
+      "Dee Bradley Baker (corrupted)"
+    ]
+  },
+  {
+    "name": "Yellow Diamond",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/5/5b/Yellow_Diamond_by_Red.png/revision/latest/scale-to-width-down/204?cb=20191111032909",
+    "nicknames": [
+      "Yellow",
+      "My Diamond (Followers)",
+      "Yellow Clod (Peridot)",
+      "Clod (Peridot)",
+      "Yellow D (Amethyst)"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "weapons": [
+      "Light Destabilization (non-summoned)"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Yellow"
+    ],
+    "eyes": [
+      "Bright yellow"
+    ],
+    "gemstone": [
+      "Yellow diamond"
+    ],
+    "gem_type": [
+      "Diamond"
+    ],
+    "affiliations": [
+      "Gem Homeworld",
+      "The Great Diamond Authority",
+      "Crystal Gems (allied)"
+    ],
+    "occupations": [
+      "Matriarch",
+      "Military Commander-in-chief"
+    ],
+    "alignment": [
+      "Homeworld Gems"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Blue Diamond",
+      "White Diamond",
+      "Pink Diamond",
+      "Steven Universe",
+      "Spinel"
+    ],
+    "first_appearance": [
+      "\"Jail Break\" (mentioned)",
+      "\"We Are the Crystal Gems\" (cameo)",
+      "\"It Could've Been Great\" (pictured)",
+      "\"Message Received\" (debut)"
+    ],
+    "music_theme": [
+      "\"Yellow Diamond\""
+    ],
+    "voice_actor": [
+      "Patti LuPone (normal)",
+      "Christine Ebersole (controlled)"
+    ]
+  },
+  {
+    "name": "Yellow Light",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/b/b9/YLiteBody.png/revision/latest?cb=20160709192456",
+    "species": [
+      "Light Creature"
+    ],
+    "first_appearance": [
+      "Attack the Light"
+    ]
+  },
+  {
+    "name": "Yellow Pearl",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/9/92/YellowPearl1_By_TheOffColors.png/revision/latest/scale-to-width-down/182?cb=20191017042240",
+    "nicknames": [
+      "Party Pearl (Steven)"
+    ],
+    "species": [
+      "Gem"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Light Yellow"
+    ],
+    "eyes": [
+      "Pale Yellow"
+    ],
+    "gemstone": [
+      "(Yellow) Pearl"
+    ],
+    "gem_type": [
+      "Pearl"
+    ],
+    "affiliations": [
+      "Gem Homeworld",
+      "Yellow Diamond (former owner/superior)",
+      "Crystal Gems (ally)"
+    ],
+    "occupations": [
+      "Servant (formerly)",
+      "Model"
+    ],
+    "alignment": [
+      "Homeworld Gems"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Steven Universe",
+      "Blue Pearl"
+    ],
+    "first_appearance": [
+      "\"Message Received\""
+    ],
+    "voice_actor": [
+      "Deedee Magno-Hall"
+    ]
+  },
+  {
+    "name": "Zircon",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/0/0d/Yellow_Zircon_By_Tri445.png/revision/latest/scale-to-width-down/153?cb=20170530010851",
+    "species": [
+      "Gem"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "gemstone": [
+      "Yellow zircon"
+    ],
+    "gem_type": [
+      "Zircon"
+    ],
+    "affiliations": [
+      "Gem Homeworld",
+      "Yellow Diamond (superior)"
+    ],
+    "occupations": [
+      "Lawyer (Prosecutor)"
+    ],
+    "alignment": [
+      "Homeworld Gems"
+    ],
+    "status": [
+      "Active (presumably)"
+    ],
+    "first_appearance": [
+      "\"The Trial\""
+    ],
+    "voice_actor": [
+      "Amy Sedaris"
+    ]
+  },
+  {
+    "name": "Yellowtail",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/0/0b/Yellowtail.png/revision/latest/scale-to-width-down/332?cb=20160801083831",
+    "nicknames": [
+      "Fishtail (Amethyst)",
+      "Yellow Dad (Sour Cream)"
+    ],
+    "species": [
+      "Human"
+    ],
+    "sex": [
+      "Male"
+    ],
+    "occupations": [
+      "Fisherman"
+    ],
+    "status": [
+      "Alive"
+    ],
+    "relatives": [
+      "Vidalia (Wife)",
+      "Onion (Son)",
+      "Sour Cream (Step-son)"
+    ],
+    "first_appearance": [
+      "\"Onion Trade\""
+    ],
+    "voice_actor": [
+      "Tom Scharpling"
+    ]
+  },
+  {
+    "name": "Zebra Jasper",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/7/74/Zebra_Jasper_by_RylerGamerDBS.png/revision/latest/scale-to-width-down/350?cb=20190512065124",
+    "species": [
+      "Gem (half-Corrupted)"
+    ],
+    "weapons": [
+      "Crash Helmet"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Light-Ivory"
+    ],
+    "eyes": [
+      "Dark yellow"
+    ],
+    "gemstone": [
+      "Zebra Jasper"
+    ],
+    "gem_type": [
+      "Quartz (specifically Jasper) (Fusion)"
+    ],
+    "occupations": [
+      "Fighter"
+    ],
+    "status": [
+      "Inactive"
+    ],
+    "first_appearance": [
+      "\"Earthlings\""
+    ],
+    "voice_actor": [
+      "Kimberly Brooks (Jasper's half)",
+      "Dee Bradley Baker (Corrupted Ocean Jasper's half)"
+    ]
+  },
+  {
+    "name": "Zebra Jasper",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/4/4d/Zebra_Jasper_%28Singular%29_by_RylerGamerDBS.png/revision/latest/scale-to-width-down/319?cb=20200122042434",
+    "species": [
+      "Gem"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "hair": [
+      "Teal"
+    ],
+    "gemstone": [
+      "Zebra Jasper"
+    ],
+    "gem_type": [
+      "Quartz"
+    ],
+    "affiliations": [
+      "Gem Homeworld (formerly)",
+      "Beach City Funland"
+    ],
+    "occupations": [
+      "Soldier (formerly)",
+      "Beach City Funland Employee"
+    ],
+    "status": [
+      "Active"
+    ],
+    "friends": [
+      "Crystal Gems",
+      "Biggs Jasper",
+      "Ocean Jasper",
+      "Lace Amethyst",
+      "Angel Aura Quartz",
+      "Harold Smiley"
+    ],
+    "first_appearance": [
+      "\"Change Your Mind\""
+    ],
+    "voice_actor": [
+      "Kimberly Brooks"
+    ]
+  },
+  {
+    "name": "Zircon",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/d/d4/Zircon_the_trial_palette_fix.png/revision/latest/scale-to-width-down/214?cb=20180127181433",
+    "species": [
+      "Gem"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "gemstone": [
+      "Blue zircon"
+    ],
+    "gem_type": [
+      "Zircon"
+    ],
+    "affiliations": [
+      "Gem Homeworld",
+      "Blue Diamond (superior)",
+      "Steven Universe (temporary ally)"
+    ],
+    "occupations": [
+      "Lawyer (Defender)"
+    ],
+    "alignment": [
+      "Homeworld Gems"
+    ],
+    "status": [
+      "Active (presumably)"
+    ],
+    "first_appearance": [
+      "\"The Trial\""
+    ],
+    "voice_actor": [
+      "Amy Sedaris"
+    ]
+  },
+  {
+    "name": "Zircon",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/0/0d/Yellow_Zircon_By_Tri445.png/revision/latest/scale-to-width-down/153?cb=20170530010851",
+    "species": [
+      "Gem"
+    ],
+    "sex": [
+      "Sexless"
+    ],
+    "gender_pronoun": [
+      "She/Her"
+    ],
+    "gemstone": [
+      "Yellow zircon"
+    ],
+    "gem_type": [
+      "Zircon"
+    ],
+    "affiliations": [
+      "Gem Homeworld",
+      "Yellow Diamond (superior)"
+    ],
+    "occupations": [
+      "Lawyer (Prosecutor)"
+    ],
+    "alignment": [
+      "Homeworld Gems"
+    ],
+    "status": [
+      "Active (presumably)"
+    ],
+    "first_appearance": [
+      "\"The Trial\""
+    ],
+    "voice_actor": [
+      "Amy Sedaris"
+    ]
+  },
+  {
+    "name": "Zoomans",
+    "image": "https://vignette.wikia.nocookie.net/steven-universe/images/4/4b/The_Zoo_076.png/revision/latest/scale-to-width-down/350?cb=20170222003335",
+    "species": [
+      "Human"
+    ],
+    "first_appearance": [
+      "\"Gem Heist\""
+    ],
+    "voice_actor": [
+      "Zach Callison",
+      "Tom Scharpling",
+      "Michaela Dietz",
+      "Lamar Abrams",
+      "Cristina Vee"
     ]
   }
 ]
